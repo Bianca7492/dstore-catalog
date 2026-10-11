@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-11T10:58:36Z",
+  "sequence": 1791716316,
+  "app_types": [
+    "app",
+    "game"
+  ],
+  "app_categories": [
+    {
+      "slug": "art_and_design",
+      "name": "Art & design"
+    },
+    {
+      "slug": "auto_and_vehicles",
+      "name": "Auto & vehicles"
+    },
+    {
+      "slug": "beauty",
+      "name": "Beauty"
+    },
+    {
+      "slug": "books_and_reference",
+      "name": "Books & reference"
+    },
+    {
+      "slug": "business",
+      "name": "Business"
+    },
+    {
+      "slug": "comics",
+      "name": "Comics"
+    },
+    {
+      "slug": "communications",
+      "name": "Communications"
+    },
+    {
+      "slug": "dating",
+      "name": "Dating"
+    },
+    {
+      "slug": "education",
+      "name": "Education"
+    },
+    {
+      "slug": "entertainment",
+      "name": "Entertainment"
+    },
+    {
+      "slug": "events",
+      "name": "Events"
+    },
+    {
+      "slug": "finance",
+      "name": "Finance"
+    },
+    {
+      "slug": "food_and_drink",
+      "name": "Food & drink"
+    },
+    {
+      "slug": "health_and_fitness",
+      "name": "Health & fitness"
+    },
+    {
+      "slug": "house_and_home",
+      "name": "House & home"
+    },
+    {
+      "slug": "libraries_and_demo",
+      "name": "Libraries & demo"
+    },
+    {
+      "slug": "lifestyle",
+      "name": "Lifestyle"
+    },
+    {
+      "slug": "maps_and_navigation",
+      "name": "Maps & navigation"
+    },
+    {
+      "slug": "medical",
+      "name": "Medical"
+    },
+    {
+      "slug": "music_and_audio",
+      "name": "Music & audio"
+    },
+    {
+      "slug": "news_and_magazines",
+      "name": "News & magazines"
+    },
+    {
+      "slug": "parenting",
+      "name": "Parenting"
+    },
+    {
+      "slug": "personalization",
+      "name": "Personalization"
+    },
+    {
+      "slug": "photography",
+      "name": "Photography"
+    },
+    {
+      "slug": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "slug": "shopping",
+      "name": "Shopping"
+    },
+    {
+      "slug": "social",
+      "name": "Social"
+    },
+    {
+      "slug": "sports",
+      "name": "Sports"
+    },
+    {
+      "slug": "tools",
+      "name": "Tools"
+    },
+    {
+      "slug": "travel_and_local",
+      "name": "Travel & local"
+    },
+    {
+      "slug": "video_players_and_editors",
+      "name": "Video players & editors"
+    },
+    {
+      "slug": "weather",
+      "name": "Weather"
+    }
+  ],
+  "game_categories": [
+    {
+      "slug": "game_action",
+      "name": "Action"
+    },
+    {
+      "slug": "game_adventure",
+      "name": "Adventure"
+    },
+    {
+      "slug": "game_arcade",
+      "name": "Arcade"
+    },
+    {
+      "slug": "game_board",
+      "name": "Board"
+    },
+    {
+      "slug": "game_card",
+      "name": "Card"
+    },
+    {
+      "slug": "game_casino",
+      "name": "Casino"
+    },
+    {
+      "slug": "game_casual",
+      "name": "Casual"
+    },
+    {
+      "slug": "game_educational",
+      "name": "Educational"
+    },
+    {
+      "slug": "game_music",
+      "name": "Music"
+    },
+    {
+      "slug": "game_puzzle",
+      "name": "Puzzle"
+    },
+    {
+      "slug": "game_racing",
+      "name": "Racing"
+    },
+    {
+      "slug": "game_role_playing",
+      "name": "Role playing"
+    },
+    {
+      "slug": "game_simulation",
+      "name": "Simulation"
+    },
+    {
+      "slug": "game_sports",
+      "name": "Sports"
+    },
+    {
+      "slug": "game_strategy",
+      "name": "Strategy"
+    },
+    {
+      "slug": "game_trivia",
+      "name": "Trivia"
+    },
+    {
+      "slug": "game_word",
+      "name": "Word"
+    }
+  ]
+}

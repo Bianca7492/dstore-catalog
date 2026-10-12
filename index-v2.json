@@ -4,13 +4,13 @@
       "en-US": "Zealot"
     },
     "address": "https://raw.githubusercontent.com/Zapier-codes/dstore-catalog/gh-pages",
-    "timestamp": 1791792319562
+    "timestamp": 1791813917209
   },
   "packages": {
     "com.vythera.vyxelapps": {
       "metadata": {
         "added": 1791024952853,
-        "lastUpdated": 1791784690278,
+        "lastUpdated": 1791811376821,
         "categories": [
           "entertainment"
         ],
@@ -28,22 +28,22 @@
           "phone": {
             "en-US": [
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/45",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/61",
                 "sha256": "623b2d38ff9efe157237ba6ee9a541b0b66d1d317f4026a6380aac3168ebbad0",
                 "size": 1267382
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/46",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/62",
                 "sha256": "ec1b6a3c34b0a81d0f084fe121b56905a1773e4159168b878a553d68884ef43a",
                 "size": 216930
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/47",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/63",
                 "sha256": "96a134f2525cdb22b29ac51dfaf08de7cdae00831027f3f30ac4e8367419205b",
                 "size": 656433
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/48",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/64",
                 "sha256": "22b9a177c4e2be4dd0a418b04533068b57615e22a1139b25fb94507038cecfae",
                 "size": 98809
               }
@@ -53,16 +53,16 @@
         "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
       },
       "versions": {
-        "86a6b8e8cb7504525a9e8d7b23c777552668c6be21ea6b0566a43dc5a8dd3364": {
-          "added": 1791784690278,
+        "a5a06a8cf3b05b33090c30be10eff9ac2ecbb7bddc81343939008481973e9711": {
+          "added": 1791811376821,
           "file": {
-            "name": "https://zealot-deploy-latest.onrender.com/download/releases/19",
-            "sha256": "86a6b8e8cb7504525a9e8d7b23c777552668c6be21ea6b0566a43dc5a8dd3364",
-            "size": 8231208
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/23",
+            "sha256": "a5a06a8cf3b05b33090c30be10eff9ac2ecbb7bddc81343939008481973e9711",
+            "size": 8302312
           },
           "manifest": {
-            "versionName": "1.1.46",
-            "versionCode": 260,
+            "versionName": "1.1.50",
+            "versionCode": 264,
             "usesSdk": {
               "minSdkVersion": 26,
               "targetSdkVersion": 36

@@ -4,7 +4,7 @@
       "en-US": "Zealot"
     },
     "address": "https://Zapier-codes.github.io/dstore-catalog",
-    "timestamp": 1791771729590
+    "timestamp": 1791773778898
   },
   "packages": {
     "com.vythera.vyxelapps": {
@@ -59,11 +59,11 @@
         "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
       },
       "versions": {
-        "152d9fe48a5871b41c725c4cee6d53d2205ed6ab083aecee74fdcb719f0a6bbf": {
+        "c5968d5183d6714d663ea3a632c04e6dde2ad5a95ed98506ac69720bca482ea1": {
           "added": 1791768902587,
           "file": {
             "name": "https://zealot-deploy-latest.onrender.com/download/releases/16",
-            "sha256": "152d9fe48a5871b41c725c4cee6d53d2205ed6ab083aecee74fdcb719f0a6bbf",
+            "sha256": "c5968d5183d6714d663ea3a632c04e6dde2ad5a95ed98506ac69720bca482ea1",
             "size": 8223016
           },
           "manifest": {

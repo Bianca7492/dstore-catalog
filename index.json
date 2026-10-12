@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-12T12:04:15Z",
+  "generated_at": "2026-10-12T12:05:32Z",
   "sequence": 0,
-  "expires_at": "2026-10-14T12:04:15Z",
+  "expires_at": "2026-10-14T12:05:32Z",
   "apps": [
     {
       "id": 2,
@@ -92,7 +92,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 5789006,
+        "downloads": 5789000,
         "rating": {
           "average": 4.6,
           "count": 10
@@ -193,18 +193,18 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "260",
+      "suggested_version_code": "261",
       "versions": [
         {
-          "release_id": 19,
-          "version_name": "1.1.46",
-          "version_code": "260",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/19",
-          "sha256": "86a6b8e8cb7504525a9e8d7b23c777552668c6be21ea6b0566a43dc5a8dd3364",
-          "size_bytes": 8231208,
+          "release_id": 20,
+          "version_name": "1.1.47",
+          "version_code": "261",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/20",
+          "sha256": "86f26b9cff49f88b3a4bbf13e4098f0ca5ca5427687f48d82aa587d3ed475dcc",
+          "size_bytes": 8318696,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 1.1.46 (build 260), commit 8bc04cf.",
-          "released_at": "2026-10-12T05:58:10Z",
+          "changelog": "- Version 1.1.47 (build 261), commit 0c3edd1.",
+          "released_at": "2026-10-12T12:03:47Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,

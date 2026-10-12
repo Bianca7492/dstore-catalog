@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-12T19:57:13Z",
+  "generated_at": "2026-10-12T19:58:25Z",
   "sequence": 0,
-  "expires_at": "2026-10-14T19:57:13Z",
+  "expires_at": "2026-10-14T19:58:25Z",
   "apps": [
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "title": "Appstore",
         "description": "Appstore is an open-source Android app store that scans six sources and merges them into one feed: GitHub, GitLab, F-Droid, IzzyOnDroid, APKPure and Aptoide. No ads and no bloat.\n\nFind what you want faster\n- Browse curated categories plus smart sections such as Trending and Newly Launched.\n- See screenshots pulled straight from each project's README.\n- Sync your GitHub starred repositories into your favourites.\n\nInstall with confidence\n- Every downloaded APK is checked against the signing certificate of the app already on your phone before it installs, so a hijacked repository or redirected release cannot silently replace what you have.\n- Your install history is kept, and you can roll back to a previous version from it.\n\nMade for everyone\n- Available in 16 languages, including English, Hindi, Spanish, French, German, Japanese, Portuguese, Arabic and Chinese.\n- Dismissible in-app announcements for releases and community updates.\n- Optional Liquid Glass Pro themes.\n\nAppstore is open source under the AGPL-3.0 licence.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/releases/27/icon",
+          "url": "https://zealot-deploy-latest.onrender.com/download/releases/28/icon",
           "sha256": "7ad4d472147897a0920651da2dcaefed1d13447a7338b7ecf67e317283b57e44"
         },
         "screenshots": [
@@ -193,18 +193,18 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "272",
+      "suggested_version_code": "275",
       "versions": [
         {
-          "release_id": 27,
-          "version_name": "1.1.58",
-          "version_code": "272",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/27",
-          "sha256": "3f846a5d467c3db28d3115edb3b918b337d24af3811ebd6fd803855287a8b210",
-          "size_bytes": 8335080,
+          "release_id": 28,
+          "version_name": "1.1.61",
+          "version_code": "275",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/28",
+          "sha256": "6265d657865348a75df19d87a6b12b63f7636318efeb7c2f1c8c6e0670b6f8e7",
+          "size_bytes": 8318696,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 1.1.58 (build 272), commit a069213.",
-          "released_at": "2026-10-12T19:38:39Z",
+          "changelog": "- Version 1.1.61 (build 275), commit 1213202.",
+          "released_at": "2026-10-12T19:56:59Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,

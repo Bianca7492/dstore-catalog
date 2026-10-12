@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-11T22:00:12Z",
+  "generated_at": "2026-10-12T01:29:16Z",
   "sequence": 0,
-  "expires_at": "2026-10-13T22:00:12Z",
+  "expires_at": "2026-10-13T01:29:16Z",
   "apps": [
     {
       "id": 2,
@@ -20,7 +20,7 @@
         "description": "Appstore is an open-source Android app store that scans six sources and merges them into one feed: GitHub, GitLab, F-Droid, IzzyOnDroid, APKPure and Aptoide. No ads and no bloat.\n\nFind what you want faster\n- Browse curated categories plus smart sections such as Trending and Newly Launched.\n- See screenshots pulled straight from each project's README.\n- Sync your GitHub starred repositories into your favourites.\n\nInstall with confidence\n- Every downloaded APK is checked against the signing certificate of the app already on your phone before it installs, so a hijacked repository or redirected release cannot silently replace what you have.\n- Your install history is kept, and you can roll back to a previous version from it.\n\nMade for everyone\n- Available in 16 languages, including English, Hindi, Spanish, French, German, Japanese, Portuguese, Arabic and Chinese.\n- Dismissible in-app announcements for releases and community updates.\n- Optional Liquid Glass Pro themes.\n\nAppstore is open source under the AGPL-3.0 licence.",
         "icon": {
           "url": "https://zealot-deploy-latest.onrender.com/download/releases/15/icon",
-          "sha256": "fb976ba0f2c42bff2f3c4936b0389056c6d5e6a5a08093e361611783edd42b85"
+          "sha256": "26223e00cfdbaa169d29e46796b5ca2bc1176461edc961c1a888508c5490f56e"
         },
         "screenshots": [
           {
@@ -63,13 +63,10 @@
           "deletion_request_url": null
         },
         "contains_ads": null,
-        "has_in_app_purchases": null,
-        "privacy_policy_url": null,
-        "translations": {}
+        "has_in_app_purchases": null
       },
       "slug": "appstore",
       "summary": "Open-source Android store merging GitHub, F-Droid, Aptoide and more",
-      "app_type": "app",
       "category": "entertainment",
       "license": null,
       "links": {
@@ -85,112 +82,6 @@
         "featured": true,
         "editors_pick": false
       },
-      "verification": {
-        "developer_verified": false,
-        "package_registered": false,
-        "signing_key_registered": false,
-        "checked_at": null
-      },
-      "base_stats": {
-        "downloads": 5789010,
-        "rating": {
-          "average": 4.6,
-          "count": 10
-        }
-      },
-      "reviews": [
-        {
-          "author_name": "Amina K.",
-          "rating": 5,
-          "body": "I've been hunting through GitHub release pages for months 😩 and this just puts everything in one place. Tapped install and it picked the right APK for my phone first time 🙌",
-          "commented_on": "2026-09-02T00:00:00Z",
-          "helpful_count": 41,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Tunde O.",
-          "rating": 5,
-          "body": "No ads. No tracking. No \"create an account\" nonsense. In 2026?? I had to double check I wasn't dreaming 😂",
-          "commented_on": "2026-09-05T00:00:00Z",
-          "helpful_count": 36,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Chidi E.",
-          "rating": 5,
-          "body": "Update notifications are the killer feature for me 🔔 Got pinged about a new release before I even knew one was coming. Never going back to manual checking.",
-          "commented_on": "2026-09-08T00:00:00Z",
-          "helpful_count": 28,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Fatima B.",
-          "rating": 4,
-          "body": "Dark mode is gorgeous 🌙 and the compare-two-apps view saved me from picking the wrong one. Only wish the trust score explained itself a bit more 🤔",
-          "commented_on": "2026-09-11T00:00:00Z",
-          "helpful_count": 19,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Emeka N.",
-          "rating": 5,
-          "body": "An update broke my favourite app and I nearly panicked 😬 then found the rollback option. Back to the old version in 10 seconds. You've earned a fan 💯",
-          "commented_on": "2026-09-14T00:00:00Z",
-          "helpful_count": 52,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Zainab L.",
-          "rating": 3,
-          "body": "Great idea, honestly, but a lot of listings have no screenshots 📷 and search crawled on my mobile data 🐌 Fix those and it's a 5 for me.",
-          "commented_on": "2026-09-18T00:00:00Z",
-          "helpful_count": 23,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "David A.",
-          "rating": 4,
-          "body": "Synced my GitHub stars into favourites and my whole wishlist appeared instantly ✨ Would love more categories for dev tools.",
-          "commented_on": "2026-09-21T00:00:00Z",
-          "helpful_count": 14,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Grace M.",
-          "rating": 5,
-          "body": "Open source, free, respects privacy. I sent it to my whole class group chat and three people have already installed it 🥳",
-          "commented_on": "2026-09-25T00:00:00Z",
-          "helpful_count": 17,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Sani Y.",
-          "rating": 5,
-          "body": "Use it daily now. It feels like a proper Play Store alternative but without the baggage ❤️ Please keep it this clean!",
-          "commented_on": "2026-09-29T00:00:00Z",
-          "helpful_count": 31,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Blessing C.",
-          "rating": 5,
-          "body": "Was skeptical at first 🤨 then I saw the signature check and the install history. Okay, this is legit. Five stars, no notes 🔥",
-          "commented_on": "2026-10-03T00:00:00Z",
-          "helpful_count": 22,
-          "developer_reply": null,
-          "developer_replied_at": null
-        }
-      ],
-      "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
       "suggested_version_code": "253",
@@ -242,8 +133,7 @@
           "rollout": {
             "percentage": 100,
             "status": "active"
-          },
-          "delta_patches": []
+          }
         }
       ]
     }

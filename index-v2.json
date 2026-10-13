@@ -4,13 +4,13 @@
       "en-US": "Zealot"
     },
     "address": "https://raw.githubusercontent.com/Zapier-codes/dstore-catalog/gh-pages",
-    "timestamp": 1791813917209
+    "timestamp": 1791878717464
   },
   "packages": {
     "com.vythera.vyxelapps": {
       "metadata": {
         "added": 1791024952853,
-        "lastUpdated": 1791811376821,
+        "lastUpdated": 1791878177207,
         "categories": [
           "entertainment"
         ],
@@ -24,26 +24,32 @@
         "description": {
           "en-US": "Appstore is an open-source Android app store that scans six sources and merges them into one feed: GitHub, GitLab, F-Droid, IzzyOnDroid, APKPure and Aptoide. No ads and no bloat.\n\nFind what you want faster\n- Browse curated categories plus smart sections such as Trending and Newly Launched.\n- See screenshots pulled straight from each project's README.\n- Sync your GitHub starred repositories into your favourites.\n\nInstall with confidence\n- Every downloaded APK is checked against the signing certificate of the app already on your phone before it installs, so a hijacked repository or redirected release cannot silently replace what you have.\n- Your install history is kept, and you can roll back to a previous version from it.\n\nMade for everyone\n- Available in 16 languages, including English, Hindi, Spanish, French, German, Japanese, Portuguese, Arabic and Chinese.\n- Dismissible in-app announcements for releases and community updates.\n- Optional Liquid Glass Pro themes.\n\nAppstore is open source under the AGPL-3.0 licence."
         },
+        "icon": {
+          "en-US": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/38/icon",
+            "sha256": "7ad4d472147897a0920651da2dcaefed1d13447a7338b7ecf67e317283b57e44"
+          }
+        },
         "screenshots": {
           "phone": {
             "en-US": [
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/61",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/121",
                 "sha256": "623b2d38ff9efe157237ba6ee9a541b0b66d1d317f4026a6380aac3168ebbad0",
                 "size": 1267382
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/62",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/122",
                 "sha256": "ec1b6a3c34b0a81d0f084fe121b56905a1773e4159168b878a553d68884ef43a",
                 "size": 216930
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/63",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/123",
                 "sha256": "96a134f2525cdb22b29ac51dfaf08de7cdae00831027f3f30ac4e8367419205b",
                 "size": 656433
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/64",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/124",
                 "sha256": "22b9a177c4e2be4dd0a418b04533068b57615e22a1139b25fb94507038cecfae",
                 "size": 98809
               }
@@ -53,16 +59,16 @@
         "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
       },
       "versions": {
-        "a5a06a8cf3b05b33090c30be10eff9ac2ecbb7bddc81343939008481973e9711": {
-          "added": 1791811376821,
+        "0e7ac8dd6d9e3d2c43eac62bd338f4520e7d29a4b8bc15f54b09529b9a84bf9e": {
+          "added": 1791878177207,
           "file": {
-            "name": "https://zealot-deploy-latest.onrender.com/download/releases/23",
-            "sha256": "a5a06a8cf3b05b33090c30be10eff9ac2ecbb7bddc81343939008481973e9711",
-            "size": 8302312
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/38",
+            "sha256": "0e7ac8dd6d9e3d2c43eac62bd338f4520e7d29a4b8bc15f54b09529b9a84bf9e",
+            "size": 8400732
           },
           "manifest": {
-            "versionName": "1.1.50",
-            "versionCode": 264,
+            "versionName": "1.1.76",
+            "versionCode": 290,
             "usesSdk": {
               "minSdkVersion": 26,
               "targetSdkVersion": 36

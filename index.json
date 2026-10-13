@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-13T22:29:20Z",
+  "generated_at": "2026-10-13T22:29:35Z",
   "sequence": 0,
-  "expires_at": "2026-10-15T22:29:20Z",
+  "expires_at": "2026-10-15T22:29:35Z",
   "apps": [
     {
       "id": 2,
@@ -24,28 +24,28 @@
         },
         "screenshots": [
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/189",
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/193",
             "sha256": "623b2d38ff9efe157237ba6ee9a541b0b66d1d317f4026a6380aac3168ebbad0",
             "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/190",
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/194",
             "sha256": "ec1b6a3c34b0a81d0f084fe121b56905a1773e4159168b878a553d68884ef43a",
             "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/191",
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/195",
             "sha256": "96a134f2525cdb22b29ac51dfaf08de7cdae00831027f3f30ac4e8367419205b",
             "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/192",
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/196",
             "sha256": "22b9a177c4e2be4dd0a418b04533068b57615e22a1139b25fb94507038cecfae",
             "alt": null,
             "width": 1080,

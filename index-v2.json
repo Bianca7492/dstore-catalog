@@ -4,13 +4,13 @@
       "en-US": "Zealot"
     },
     "address": "https://raw.githubusercontent.com/Zapier-codes/dstore-catalog/gh-pages",
-    "timestamp": 1791965119076
+    "timestamp": 1791986718942
   },
   "packages": {
     "com.vythera.vyxelapps": {
       "metadata": {
         "added": 1791024952853,
-        "lastUpdated": 1791959278409,
+        "lastUpdated": 1791971519343,
         "categories": [
           "entertainment"
         ],
@@ -26,7 +26,7 @@
         },
         "icon": {
           "en-US": {
-            "name": "https://zealot-deploy-latest.onrender.com/download/releases/58/icon",
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/60/icon",
             "sha256": "7ad4d472147897a0920651da2dcaefed1d13447a7338b7ecf67e317283b57e44"
           }
         },
@@ -34,22 +34,22 @@
           "phone": {
             "en-US": [
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/197",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/201",
                 "sha256": "623b2d38ff9efe157237ba6ee9a541b0b66d1d317f4026a6380aac3168ebbad0",
                 "size": 1267382
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/198",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/202",
                 "sha256": "ec1b6a3c34b0a81d0f084fe121b56905a1773e4159168b878a553d68884ef43a",
                 "size": 216930
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/199",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/203",
                 "sha256": "96a134f2525cdb22b29ac51dfaf08de7cdae00831027f3f30ac4e8367419205b",
                 "size": 656433
               },
               {
-                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/200",
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/204",
                 "sha256": "22b9a177c4e2be4dd0a418b04533068b57615e22a1139b25fb94507038cecfae",
                 "size": 98809
               }
@@ -59,16 +59,16 @@
         "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
       },
       "versions": {
-        "9f63d1f87e2735fc4c9e22c0aa6be52d993a8fc1d9ca011b1bc0b59a98af2790": {
-          "added": 1791959278409,
+        "3390a710707b822f99a87822fbd1511814c00a3343a48828bc6121532393d017": {
+          "added": 1791971519343,
           "file": {
-            "name": "https://zealot-deploy-latest.onrender.com/download/releases/58",
-            "sha256": "9f63d1f87e2735fc4c9e22c0aa6be52d993a8fc1d9ca011b1bc0b59a98af2790",
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/60",
+            "sha256": "3390a710707b822f99a87822fbd1511814c00a3343a48828bc6121532393d017",
             "size": 9996316
           },
           "manifest": {
-            "versionName": "1.2.15",
-            "versionCode": 316,
+            "versionName": "1.3.0",
+            "versionCode": 321,
             "usesSdk": {
               "minSdkVersion": 26,
               "targetSdkVersion": 36

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-14T16:20:42Z",
+  "generated_at": "2026-10-14T16:22:54Z",
   "sequence": 0,
-  "expires_at": "2026-10-16T16:20:42Z",
+  "expires_at": "2026-10-16T16:22:54Z",
   "apps": [
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "title": "Appstore",
         "description": "Appstore is an open-source Android app store that scans six sources and merges them into one feed: GitHub, GitLab, F-Droid, IzzyOnDroid, APKPure and Aptoide. No ads and no bloat.\n\nFind what you want faster\n- Browse curated categories plus smart sections such as Trending and Newly Launched.\n- See screenshots pulled straight from each project's README.\n- Sync your GitHub starred repositories into your favourites.\n\nInstall with confidence\n- Every downloaded APK is checked against the signing certificate of the app already on your phone before it installs, so a hijacked repository or redirected release cannot silently replace what you have.\n- Your install history is kept, and you can roll back to a previous version from it.\n\nMade for everyone\n- Available in 16 languages, including English, Hindi, Spanish, French, German, Japanese, Portuguese, Arabic and Chinese.\n- Dismissible in-app announcements for releases and community updates.\n- Optional Liquid Glass Pro themes.\n\nAppstore is open source under the AGPL-3.0 licence.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/releases/60/icon",
+          "url": "https://zealot-deploy-latest.onrender.com/download/releases/61/icon",
           "sha256": "7ad4d472147897a0920651da2dcaefed1d13447a7338b7ecf67e317283b57e44"
         },
         "screenshots": [
@@ -92,7 +92,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 5789006,
+        "downloads": 5789000,
         "rating": {
           "average": 4.6,
           "count": 10
@@ -193,18 +193,18 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "321",
+      "suggested_version_code": "324",
       "versions": [
         {
-          "release_id": 60,
-          "version_name": "1.3.0",
-          "version_code": "321",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/60",
-          "sha256": "3390a710707b822f99a87822fbd1511814c00a3343a48828bc6121532393d017",
-          "size_bytes": 9996316,
+          "release_id": 61,
+          "version_name": "1.3.3",
+          "version_code": "324",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/61",
+          "sha256": "ae1cb5d0a8292d1453200c57d0e6883dea18f4da0fa869cc4d88c1e8eda958a2",
+          "size_bytes": 10029084,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 1.3.0 (build 321), commit e7840cf.",
-          "released_at": "2026-10-14T09:51:59Z",
+          "changelog": "- Version 1.3.3 (build 324), commit 6db3043.",
+          "released_at": "2026-10-14T16:20:24Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
@@ -224,6 +224,7 @@
               "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
               "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
               "android.permission.INTERNET",
+              "android.permission.PACKAGE_USAGE_STATS",
               "android.permission.POST_NOTIFICATIONS",
               "android.permission.QUERY_ALL_PACKAGES",
               "android.permission.READ_EXTERNAL_STORAGE",

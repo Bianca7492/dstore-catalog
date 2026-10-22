@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T12:01:50Z",
+  "generated_at": "2026-10-22T12:02:20Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T12:01:50Z",
+  "expires_at": "2026-10-24T12:02:20Z",
   "apps": [
     {
       "id": 2,
@@ -499,8 +499,8 @@
         "title": "YouTube-X",
         "description": "Flow (YouTube-X) is a privacy-first YouTube and YouTube Music client. It provides a personalized feed using a completely local, on-device algorithm, giving you a modern discovery experience without tracking or accounts.\n\nFeatures:\n- Play videos and songs from YouTube and YouTube Music\n- Local recommendation engine that learns your preferences on-device\n- 100% on-device privacy with zero analytics or tracking\n- No Google account required\n- Background audio and Picture-in-Picture video playback\n- Built-in SponsorBlock to automatically skip sponsored segments\n- Built-in DeArrow to replace clickbait titles and thumbnails\n- Built-in Return YouTube Dislike\n- Download videos and audio for offline playback\n- Dedicated music player with synchronized live lyrics\n- Import subscriptions, playlists and history from YouTube, NewPipe and LibreTube\n\nFlow keeps your recommendations and watch history entirely on your own device.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/284",
-          "sha256": "82770e0fa9380f66cab1ffaf0effe5dc6ff696374c2abbd5b0a51c0a64d45c27"
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/299",
+          "sha256": "eb527b890b51a65915e3196703d8136bfb09a45638ff0035b12692348b485646"
         },
         "screenshots": [
           {

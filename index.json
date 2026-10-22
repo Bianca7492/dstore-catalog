@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T07:15:08Z",
+  "generated_at": "2026-10-22T07:15:26Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T07:15:08Z",
+  "expires_at": "2026-10-24T07:15:26Z",
   "apps": [
     {
       "id": 2,
@@ -467,6 +467,263 @@
               "android.permission.WAKE_LOCK",
               "android.permission.WRITE_EXTERNAL_STORAGE",
               "com.music.bitchord.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "package_name": "io.github.aedev.flow",
+      "listing_status": "live",
+      "publisher": {
+        "name": "aedev",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "Flow",
+        "description": "Flow (YouTube-X) is a privacy-first YouTube and YouTube Music client. It provides a personalized feed using a completely local, on-device algorithm, giving you a modern discovery experience without tracking or accounts.\n\nFeatures:\n- Play videos and songs from YouTube and YouTube Music\n- Local recommendation engine that learns your preferences on-device\n- 100% on-device privacy with zero analytics or tracking\n- No Google account required\n- Background audio and Picture-in-Picture video playback\n- Built-in SponsorBlock to automatically skip sponsored segments\n- Built-in DeArrow to replace clickbait titles and thumbnails\n- Built-in Return YouTube Dislike\n- Download videos and audio for offline playback\n- Dedicated music player with synchronized live lyrics\n- Import subscriptions, playlists and history from YouTube, NewPipe and LibreTube\n\nFlow keeps your recommendations and watch history entirely on your own device.",
+        "icon": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/284",
+          "sha256": "82770e0fa9380f66cab1ffaf0effe5dc6ff696374c2abbd5b0a51c0a64d45c27"
+        },
+        "screenshots": [
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/285",
+            "sha256": "111cf693084e3bdc60f85db6b030ad18992d8538f49396c5eb3b8646f31c066c",
+            "alt": "Flow screenshot 1",
+            "width": 599,
+            "height": 1198
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/286",
+            "sha256": "e6ca7f7b6475e25b5076a74018e13b8a73bb2011e68d9c1625dada73b52f84df",
+            "alt": "Flow screenshot 2",
+            "width": 602,
+            "height": 1204
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/287",
+            "sha256": "e98c26e61470be52ec64910e4ecb3b9b8ea7a58355a2fc8f66558968f0a24ef1",
+            "alt": "Flow screenshot 3",
+            "width": 596,
+            "height": 1192
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/288",
+            "sha256": "61581d0e7ed9fff316206aa9f367e9850d8e57b0754037e00c96b6ecb4fe29fd",
+            "alt": "Flow screenshot 4",
+            "width": 602,
+            "height": 1204
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/289",
+            "sha256": "d92bcca8243b2b43a324e366bb04da6cf850265755dc39ef83570403582410bc",
+            "alt": "Flow screenshot 5",
+            "width": 599,
+            "height": 1198
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/290",
+            "sha256": "fc2ef889661400028bd6441fdfe884864ece10cc584504b27e06a0a9ba8bdc4a",
+            "alt": "Flow screenshot 6",
+            "width": 599,
+            "height": 1198
+          }
+        ],
+        "feature_graphic": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/291",
+          "sha256": "234b8d2b71686816c49eb27a502adffcadf4ff449cc050c13004cb3904456cf7",
+          "alt": "Flow feature graphic"
+        },
+        "video": null,
+        "content_rating": "Teen",
+        "data_safety": {
+          "collects_data": false,
+          "data_types": [],
+          "shared_with_third_parties": false,
+          "encrypted_in_transit": true,
+          "deletion_request_url": "https://github.com/King-Fisher000/Flow/blob/main/PRIVACY.md"
+        },
+        "contains_ads": false,
+        "has_in_app_purchases": false,
+        "privacy_policy_url": "https://github.com/King-Fisher000/Flow/blob/main/PRIVACY.md",
+        "translations": {}
+      },
+      "slug": "flow",
+      "summary": "Privacy-first YouTube and Music client with local recommendations",
+      "app_type": "app",
+      "category": "video_players_and_editors",
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-21T13:24:45Z",
+      "updated_at": "2026-10-22T07:15:25Z",
+      "editorial": {
+        "featured": true,
+        "editors_pick": false
+      },
+      "verification": {
+        "developer_verified": true,
+        "package_registered": false,
+        "signing_key_registered": false,
+        "checked_at": null
+      },
+      "base_stats": {
+        "downloads": 538204117,
+        "rating": {
+          "average": 4.55,
+          "count": 2918446
+        }
+      },
+      "reviews": [
+        {
+          "author_name": "Noah T.",
+          "rating": 5,
+          "body": "Finally a YouTube client that doesn't send my watch history anywhere. Respect.",
+          "commented_on": "2025-11-26T00:00:00Z",
+          "helpful_count": 118,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Emma R.",
+          "rating": 5,
+          "body": "SponsorBlock built in means I never hear a mattress ad again. Glorious.",
+          "commented_on": "2025-12-30T00:00:00Z",
+          "helpful_count": 96,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Liam H.",
+          "rating": 4,
+          "body": "Local recommendations are surprisingly decent after a week of use.",
+          "commented_on": "2026-02-02T00:00:00Z",
+          "helpful_count": 62,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Olivia P.",
+          "rating": 5,
+          "body": "DeArrow alone is worth the install. No more shocked-face thumbnails.",
+          "commented_on": "2026-03-08T00:00:00Z",
+          "helpful_count": 84,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Ethan G.",
+          "rating": 4,
+          "body": "PiP works great. Wish the music player had a few more equalizer presets.",
+          "commented_on": "2026-04-11T00:00:00Z",
+          "helpful_count": 41,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Sophia D.",
+          "rating": 5,
+          "body": "Imported my whole LibreTube setup in one go. Seamless.",
+          "commented_on": "2026-05-15T00:00:00Z",
+          "helpful_count": 53,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Mason W.",
+          "rating": 5,
+          "body": "No account needed and it just works. This is how it should be.",
+          "commented_on": "2026-06-18T00:00:00Z",
+          "helpful_count": 77,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Isabella F.",
+          "rating": 4,
+          "body": "Privacy-first and functional. Slight lag when scrolling large feeds.",
+          "commented_on": "2026-07-22T00:00:00Z",
+          "helpful_count": 33,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Lucas B.",
+          "rating": 3,
+          "body": "Great concept, but downloads sometimes fail on flaky wifi.",
+          "commented_on": "2026-08-25T00:00:00Z",
+          "helpful_count": 21,
+          "developer_reply": null,
+          "developer_replied_at": null
+        }
+      ],
+      "anonymous_reviews": [],
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "19",
+      "versions": [
+        {
+          "release_id": 76,
+          "version_name": "3.0.0",
+          "version_code": "19",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/76",
+          "sha256": "ce9a6bc3ef185db964a2abc9c6eca75bf48185223ba16d6d41a6ee50d9b85b72",
+          "size_bytes": 29183828,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Release build signed with the King-Fisher000 release key",
+          "released_at": "2026-10-22T05:06:28Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 26,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ACCESS_WIFI_STATE",
+              "android.permission.CAMERA",
+              "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+              "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.INTERNET",
+              "android.permission.MANAGE_EXTERNAL_STORAGE",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.READ_MEDIA_AUDIO",
+              "android.permission.READ_MEDIA_VIDEO",
+              "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.RECORD_AUDIO",
+              "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.SYSTEM_ALERT_WINDOW",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "io.github.aedev.flow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
             ]
           },
           "rollout": {

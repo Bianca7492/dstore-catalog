@@ -3,8 +3,8 @@
     "name": {
       "en-US": "Zealot"
     },
-    "address": "https://raw.githubusercontent.com/Zapier-codes/dstore-catalog/gh-pages",
-    "timestamp": 1792245917054
+    "address": "https://raw.githubusercontent.com/King-Fisher000/dstore-catalog/gh-pages",
+    "timestamp": 1792656322044
   },
   "packages": {
     "com.vythera.vyxelapps": {
@@ -141,6 +141,886 @@
               },
               {
                 "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.music.bitchord": {
+      "metadata": {
+        "added": 1792589085024,
+        "lastUpdated": 1792626621020,
+        "categories": [
+          "music_and_audio"
+        ],
+        "name": {
+          "en-US": "BitChord"
+        },
+        "authorName": "kushagrasinghx",
+        "summary": {
+          "en-US": "Aesthetic YouTube Music client with synced lyrics and offline playback"
+        },
+        "description": {
+          "en-US": "BitChord is an aesthetic YouTube Music client for Android, built for people who care how their music app looks and feels.\n\nFeatures:\n- Stream from YouTube Music with a clean, modern interface\n- Synchronized lyrics with word-by-word highlighting\n- Offline downloads for tracks, albums and playlists\n- Background playback with full media notification controls\n- Queue management with reordering and play-next\n- Spotify and Discord integration\n- Apple Music inspired and Material You themes\n- No ads, no tracking, no account required to start\n\nBitChord is not affiliated with, endorsed by, or connected to YouTube or Google in any way."
+        },
+        "icon": {
+          "en-US": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/74/icon",
+            "sha256": "38b7630a5c5c2b967e2b6294555b1ba4cb0d383e026b79eb60fdb741699969b7"
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/239",
+                "sha256": "f0a43df172f8b3d4846d0d3ef5c27f19bd449be9965b26d10af101d554796a87",
+                "size": 912594
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/240",
+                "sha256": "903b0b227ff762caafd35a9c0af404c997710abc9b5d30c449c9f6bda51fefc1",
+                "size": 837253
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/241",
+                "sha256": "c785c23db966234a0689ca548bc74cefeb5f100fcaaf3497c96615303683d8c1",
+                "size": 738400
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/242",
+                "sha256": "5a59badb4295c1125736477afca547410c97d83a7c49deef5976a10415793323",
+                "size": 342971
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/292",
+                "sha256": "eaacc164f0baec892779d2a110115a63a86b3501f9f9f6dba4ab0cf5f6403c5a",
+                "size": 833503
+              }
+            ]
+          }
+        },
+        "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+      },
+      "versions": {
+        "bac1df1c82176c0f175d8e180bb9edbe0d75af3291ec4a8a9ee0dac1ac4d2c2c": {
+          "added": 1792626621020,
+          "file": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/74",
+            "sha256": "bac1df1c82176c0f175d8e180bb9edbe0d75af3291ec4a8a9ee0dac1ac4d2c2c",
+            "size": 171611070
+          },
+          "manifest": {
+            "versionName": "1.8.1",
+            "versionCode": 28,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+              ]
+            },
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.music.bitchord.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "io.github.aedev.flow": {
+      "metadata": {
+        "added": 1792589085024,
+        "lastUpdated": 1792645588588,
+        "categories": [
+          "video_players_and_editors"
+        ],
+        "name": {
+          "en-US": "Flow"
+        },
+        "authorName": "aedev",
+        "summary": {
+          "en-US": "Privacy-first YouTube and Music client with local recommendations"
+        },
+        "description": {
+          "en-US": "Flow (YouTube-X) is a privacy-first YouTube and YouTube Music client. It provides a personalized feed using a completely local, on-device algorithm, giving you a modern discovery experience without tracking or accounts.\n\nFeatures:\n- Play videos and songs from YouTube and YouTube Music\n- Local recommendation engine that learns your preferences on-device\n- 100% on-device privacy with zero analytics or tracking\n- No Google account required\n- Background audio and Picture-in-Picture video playback\n- Built-in SponsorBlock to automatically skip sponsored segments\n- Built-in DeArrow to replace clickbait titles and thumbnails\n- Built-in Return YouTube Dislike\n- Download videos and audio for offline playback\n- Dedicated music player with synchronized live lyrics\n- Import subscriptions, playlists and history from YouTube, NewPipe and LibreTube\n\nFlow keeps your recommendations and watch history entirely on your own device."
+        },
+        "icon": {
+          "en-US": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/76/icon",
+            "sha256": "843bf9bbe9ad9c8506515dd373f722ba20cd9576bf3ff287f248110ebaf32f1e"
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/285",
+                "sha256": "111cf693084e3bdc60f85db6b030ad18992d8538f49396c5eb3b8646f31c066c",
+                "size": 123071
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/286",
+                "sha256": "e6ca7f7b6475e25b5076a74018e13b8a73bb2011e68d9c1625dada73b52f84df",
+                "size": 137893
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/287",
+                "sha256": "e98c26e61470be52ec64910e4ecb3b9b8ea7a58355a2fc8f66558968f0a24ef1",
+                "size": 104003
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/288",
+                "sha256": "61581d0e7ed9fff316206aa9f367e9850d8e57b0754037e00c96b6ecb4fe29fd",
+                "size": 122693
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/289",
+                "sha256": "d92bcca8243b2b43a324e366bb04da6cf850265755dc39ef83570403582410bc",
+                "size": 93270
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/290",
+                "sha256": "fc2ef889661400028bd6441fdfe884864ece10cc584504b27e06a0a9ba8bdc4a",
+                "size": 49225
+              }
+            ]
+          }
+        },
+        "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+      },
+      "versions": {
+        "ce9a6bc3ef185db964a2abc9c6eca75bf48185223ba16d6d41a6ee50d9b85b72": {
+          "added": 1792645588588,
+          "file": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/76",
+            "sha256": "ce9a6bc3ef185db964a2abc9c6eca75bf48185223ba16d6d41a6ee50d9b85b72",
+            "size": 29183828
+          },
+          "manifest": {
+            "versionName": "3.0.0",
+            "versionCode": 19,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+              ]
+            },
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE"
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VISUAL_USER_SELECTED"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "io.github.aedev.flow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "echo.music.iad1tya": {
+      "metadata": {
+        "added": 1792589085024,
+        "lastUpdated": 1792627371248,
+        "categories": [
+          "music_and_audio"
+        ],
+        "name": {
+          "en-US": "Echo Music"
+        },
+        "authorName": "Echo Music",
+        "summary": {
+          "en-US": "Ad-free music streaming with synced lyrics and offline playback"
+        },
+        "description": {
+          "en-US": "Echo Music delivers a seamless, premium listening experience built on YouTube Music's vast library, without the ads. It adds powerful extras including offline downloads, real-time synchronized lyrics, and environment-aware music recognition.\n\nFeatures:\n- Ad-Free: stream without any interruptions\n- Seamless Playback: switch effortlessly between audio-only and video modes\n- Background Playback: listen while using other apps or with the screen off\n- Offline Mode: download tracks, albums and playlists through a dedicated download manager\n- Echo Find: identify songs playing around you using advanced audio recognition\n- Multiple Lyric Animations: word-by-word synchronized display styles\n- Smart Recommendations: personalized suggestions based on your listening history\n- Echo Brain: an intelligent, on-device engine that analyzes your taste locally\n- Material You and Liquid Glass themes that adapt to your wallpaper\n- Light, Dark and AMOLED modes\n\nYour listening history stays on your device. Echo Music never phones home with what you play."
+        },
+        "icon": {
+          "en-US": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/75/icon",
+            "sha256": "382b97e0697cc4257a8bcb04c2112e665eef11d6044f1686949b722fe96f25d7"
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/245",
+                "sha256": "811279b37d798cb8f5afbb332d88a465db3823508d720443a90531632fc55b92",
+                "size": 1094533
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/246",
+                "sha256": "f26bf620da264b247d384f4baa4325dd191e802b7c2484a12b8c9d48039663e3",
+                "size": 416902
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/247",
+                "sha256": "4c9423bd0193cf3981f489e5d606b24787052e968cbeb1e139adef42f7497726",
+                "size": 1224071
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/248",
+                "sha256": "320236bec61838e4b9ea7af10940dcb61785b970c9a4d4eb8171546da4c57369",
+                "size": 557591
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/249",
+                "sha256": "636400db98f17ed4d95b288408c95f6c61dab5030d08d61351f852fbaaf261a2",
+                "size": 1414761
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/250",
+                "sha256": "3142b08bea1b77c89b2309f64c9f12807da554afffb238baea546c4f7c021b80",
+                "size": 957314
+              }
+            ]
+          }
+        },
+        "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+      },
+      "versions": {
+        "83165ac66c0811ef05cec1ea1abfc56eb8d4a5ccde008f9e3d772ed5144f130f": {
+          "added": 1792627371248,
+          "file": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/75",
+            "sha256": "83165ac66c0811ef05cec1ea1abfc56eb8d4a5ccde008f9e3d772ed5144f130f",
+            "size": 86602190
+          },
+          "manifest": {
+            "versionName": "1.4.3",
+            "versionCode": 164,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+              ]
+            },
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_COARSE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_FINE_LOCATION"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.BLUETOOTH"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_ADMIN"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.WRITE_SETTINGS"
+              },
+              {
+                "name": "echo.music.iad1tya.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.lastwave.app": {
+      "metadata": {
+        "added": 1792589085024,
+        "lastUpdated": 1792625984683,
+        "categories": [
+          "music_and_audio"
+        ],
+        "name": {
+          "en-US": "Last-wave"
+        },
+        "authorName": "Clash Projects",
+        "summary": {
+          "en-US": "YouTube Music client with smart playlists and synced lyrics"
+        },
+        "description": {
+          "en-US": "LastWave is a next-generation YouTube Music client with an algorithmic smart playlist generator, real-time synced lyrics and a universal Last.fm scrobbler for Android.\n\nFeatures:\n- Stream from YouTube Music with an ad-free experience\n- Smart Playlist Generator that builds mixes from your listening habits\n- Real-time synchronized lyrics with word-level timing\n- Universal Last.fm scrobbling\n- Offline downloads and caching for playback without a connection\n- Background playback with full notification controls\n- Audio effects: equalizer, bass boost, tempo and pitch control\n- Sleep timer and gapless playback\n- Material You dynamic theming\n- Light, Dark and AMOLED themes\n- Import playlists and library from other clients\n\nLastWave is not affiliated with YouTube or Google."
+        },
+        "icon": {
+          "en-US": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/73/icon",
+            "sha256": "8e6104d8c0d8aebe12034029376ce09dec31ff493b9dbcaac02c95711c74c81c"
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/261",
+                "sha256": "52ac54c7ad35b29732f9df6356db026b084f93660f21c70240dcced5e3943e95",
+                "size": 1041862
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/262",
+                "sha256": "876e59bebb69a679c073dc88b8f55faff27bb4ca0bf143d32ef08643e278f858",
+                "size": 1966807
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/263",
+                "sha256": "e83b18b43b2319c37ef1f55ecefb72d1b0b0ba6f7029873ce157eafe6e7c799a",
+                "size": 280150
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/264",
+                "sha256": "c92aa3bbeb93b58c1e88235e9fc948aa712f593674bd42691fcd94280d59e5d5",
+                "size": 670018
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/265",
+                "sha256": "e1bd676b5e02d3ff2d62b51633dc098bd4636de71be03de1db8ad5097766a67c",
+                "size": 931498
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/266",
+                "sha256": "c5353f07831d4ba4a32599a6104ebce00fb5d7d37dadc81ff474e125a42edee6",
+                "size": 470215
+              }
+            ]
+          }
+        },
+        "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+      },
+      "versions": {
+        "f0cd42049a40554e98c3d2c800dabd7b39867ea28fe9314361cbe7910966151f": {
+          "added": 1792625984683,
+          "file": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/73",
+            "sha256": "f0cd42049a40554e98c3d2c800dabd7b39867ea28fe9314361cbe7910966151f",
+            "size": 19676019
+          },
+          "manifest": {
+            "versionName": "4.3.1",
+            "versionCode": 26,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+              ]
+            },
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_WIFI_MULTICAST_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.lastwave.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.metrolist.music": {
+      "metadata": {
+        "added": 1792589085024,
+        "lastUpdated": 1792645944267,
+        "categories": [
+          "music_and_audio"
+        ],
+        "name": {
+          "en-US": "Metrolist"
+        },
+        "authorName": "Metrolist",
+        "summary": {
+          "en-US": "Material 3 YouTube Music client for Android"
+        },
+        "description": {
+          "en-US": "Metrolist is a Material 3 YouTube Music client for Android.\n\nFeatures:\n- Play any song or video from YouTube Music\n- Background playback\n- Personalized quick picks\n- Library management\n- Download and cache songs for offline playback\n- Search for songs, albums, artists, videos and playlists\n- Live lyrics\n- YouTube Music account login support\n- Syncing of songs, artists, albums and playlists, to and from your account\n- Skip silence\n- Import playlists\n- Audio normalization\n- Adjust tempo and pitch\n- Local playlist management\n- Reorder songs in a playlist or the queue\n- Light, Dark, black and Dynamic themes\n- Sleep timer\n- Full Material 3 design\n\nMetrolist is not affiliated with YouTube or Google."
+        },
+        "icon": {
+          "en-US": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/77/icon",
+            "sha256": "4ccfb30c2a036822c4f52865f7775b628d125df320b9ed2a873ef02b516bb721"
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/269",
+                "sha256": "8e0ad157f055767d5cb70846df59e5f6b990e1274731dae44cd5f5b1d06c94fc",
+                "size": 988643
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/270",
+                "sha256": "04fdda40ae7231c98e0d7527f7f01148bd4ddea5aab039077b92161aeb6e6c57",
+                "size": 589752
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/271",
+                "sha256": "62ad89029dc766a16cf53851ab9dd2191b45e00800cd5f8a98cadf70c3362e08",
+                "size": 170709
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/272",
+                "sha256": "fa5bd4e3d281bf77aba0eb28b1457e8e2d0318b2cdf399b9f32e9da40dca51d2",
+                "size": 347946
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/273",
+                "sha256": "6e4a7b914f8698254d772fe64b794f4c5d19c3cd59687693a2eed807e856cba7",
+                "size": 382718
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/274",
+                "sha256": "10a5e9713779fd9a858444f8e384548e61b7cf52136b2a7ce60902b6380a41b5",
+                "size": 299118
+              }
+            ]
+          }
+        },
+        "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+      },
+      "versions": {
+        "b3a81b25bafaf493a085f65a052381cfd61798946560f4154caf416ece0e9b65": {
+          "added": 1792645944267,
+          "file": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/77",
+            "sha256": "b3a81b25bafaf493a085f65a052381cfd61798946560f4154caf416ece0e9b65",
+            "size": 27249733
+          },
+          "manifest": {
+            "versionName": "13.7.0",
+            "versionCode": 153,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+              ]
+            },
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.SCHEDULE_EXACT_ALARM"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.metrolist.music.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.nikhil.yt": {
+      "metadata": {
+        "added": 1792589085024,
+        "lastUpdated": 1792646362406,
+        "categories": [
+          "music_and_audio"
+        ],
+        "name": {
+          "en-US": "Velune"
+        },
+        "authorName": "Nikhil",
+        "summary": {
+          "en-US": "Premium ad-free YouTube Music client for Android"
+        },
+        "description": {
+          "en-US": "Velune is a premium ad-free YouTube Music client for Android built with Kotlin and Jetpack Compose.\n\nFeatures:\n- Ad-free YouTube Music playback\n- Background playback with battery optimization\n- Personalized Quick Picks and Keep Listening sections\n- Offline caching and downloads for playback without internet\n- Synced word-by-word lyrics with translation support\n- Material You dynamic theming that adapts to album art colors\n- Search for songs, albums, artists, playlists and videos\n- YouTube Music account login and library sync\n- Import playlists from YouTube Music\n- Gapless playback and crossfade\n- Silence skipping\n- Audio normalization (EBU R128)\n- Tempo and pitch control\n- Sleep timer\n- Discord Rich Presence integration\n- Last.fm and ListenBrainz scrobbling\n- Light, Dark, AMOLED and Dynamic themes\n- Customizable home feed\n\nVelune is not affiliated with YouTube or Google."
+        },
+        "icon": {
+          "en-US": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/78/icon",
+            "sha256": "a5e7d3a9ff1fa463431499cb1e004f34a7ff1092cef01743bfea3e3e26811552"
+          }
+        },
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/277",
+                "sha256": "63bd63c25b56d52d265cb09be3b8f14f22cc4c51a4062eb0c4c3811c19f1fa47",
+                "size": 478142
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/278",
+                "sha256": "ec8b28f94e187a728042affb667b9cb1dc29e38d93951376436f95dfbc124d83",
+                "size": 584107
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/279",
+                "sha256": "4c2be69477b531e2ed12fe5f5558de70276b46b26c3a3e80e95a2070b1c152ff",
+                "size": 59765
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/280",
+                "sha256": "fb8440f2b7ced3e53e4f8fe4ca8e22c35e92f849903fe77aa94c85ddc4bbca0e",
+                "size": 43766
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/281",
+                "sha256": "de510428364985e1e176b02c60beee0dd3d4826ab3972a7c5fe5d0c40cee230a",
+                "size": 174009
+              },
+              {
+                "name": "https://zealot-deploy-latest.onrender.com/download/graphics/282",
+                "sha256": "5c5bdc9d64da7a41d8f8f3ab43d4e0f787102aed0c609df077984ccf44cb56e7",
+                "size": 37373
+              }
+            ]
+          }
+        },
+        "preferredSigner": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+      },
+      "versions": {
+        "d3a7b7e8570fbd22526d215abb3f980f846d50b9ee9483582022736d75a16b6c": {
+          "added": 1792646362406,
+          "file": {
+            "name": "https://zealot-deploy-latest.onrender.com/download/releases/78",
+            "sha256": "d3a7b7e8570fbd22526d215abb3f980f846d50b9ee9483582022736d75a16b6c",
+            "size": 109220549
+          },
+          "manifest": {
+            "versionName": "1.1.2 ",
+            "versionCode": 10,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+              ]
+            },
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.nikhil.yt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }

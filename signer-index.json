@@ -1,5 +1,23 @@
 {
+  "com.lastwave.app": {
+    "signer": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+  },
+  "com.metrolist.music": {
+    "signer": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+  },
+  "com.music.bitchord": {
+    "signer": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+  },
+  "com.nikhil.yt": {
+    "signer": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+  },
   "com.vythera.vyxelapps": {
+    "signer": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+  },
+  "echo.music.iad1tya": {
+    "signer": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+  },
+  "io.github.aedev.flow": {
     "signer": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
   }
 }

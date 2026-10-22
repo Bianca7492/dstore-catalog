@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T11:57:08Z",
+  "generated_at": "2026-10-22T12:01:22Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T11:57:08Z",
+  "expires_at": "2026-10-24T12:01:22Z",
   "apps": [
     {
       "id": 2,
@@ -590,7 +590,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 538204120,
+        "downloads": 538204117,
         "rating": {
           "average": 4.55,
           "count": 2918446
@@ -685,15 +685,15 @@
       "suggested_version_code": "19",
       "versions": [
         {
-          "release_id": 76,
+          "release_id": 80,
           "version_name": "3.0.0",
           "version_code": "19",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/76",
-          "sha256": "ce9a6bc3ef185db964a2abc9c6eca75bf48185223ba16d6d41a6ee50d9b85b72",
-          "size_bytes": 29183828,
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/80",
+          "sha256": "b4a9715dcd5558deb2a9d2a9e3518f94f0921a73237b6515d017e01eed2bf790",
+          "size_bytes": 29533127,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
           "changelog": "- Release build signed with the King-Fisher000 release key",
-          "released_at": "2026-10-22T05:06:28Z",
+          "released_at": "2026-10-22T11:56:38Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,

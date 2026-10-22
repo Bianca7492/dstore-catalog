@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T08:05:04Z",
+  "generated_at": "2026-10-22T10:00:20Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T08:05:04Z",
+  "expires_at": "2026-10-24T10:00:20Z",
   "apps": [
     {
       "id": 2,
@@ -350,7 +350,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 47832914,
+        "downloads": 47832917,
         "rating": {
           "average": 4.72,
           "count": 384201
@@ -590,7 +590,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 538204117,
+        "downloads": 538204120,
         "rating": {
           "average": 4.55,
           "count": 2918446
@@ -850,7 +850,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 213456789,
+        "downloads": 213456792,
         "rating": {
           "average": 4.61,
           "count": 1204882
@@ -1107,7 +1107,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 89120553,
+        "downloads": 89120557,
         "rating": {
           "average": 4.68,
           "count": 712004
@@ -1352,7 +1352,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 764338902,
+        "downloads": 764338905,
         "rating": {
           "average": 4.49,
           "count": 3884120
@@ -1603,7 +1603,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 156774201,
+        "downloads": 156774205,
         "rating": {
           "average": 4.77,
           "count": 998337

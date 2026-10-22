@@ -1,11 +1,11 @@
 {
-  "timestamp": 1792656322044,
+  "timestamp": 1792677923081,
   "version": 30000,
   "maxAge": 14,
   "index": {
     "name": "/index-v2.json",
-    "sha256": "2c233c9990072643b3921a179f183b6cc716c3b39efa1ce391c12442e21f6e42",
-    "size": 41929,
+    "sha256": "bcf7c93458b766e47f30e1da3dfaf801ca84104aaf2a574a9d560b6aab1e7d13",
+    "size": 41450,
     "numPackages": 7
   }
 }

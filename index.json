@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T07:01:54Z",
+  "generated_at": "2026-10-22T07:02:12Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T07:01:54Z",
+  "expires_at": "2026-10-24T07:02:12Z",
   "apps": [
     {
       "id": 2,
@@ -968,6 +968,257 @@
               "android.permission.WAKE_LOCK",
               "android.permission.WRITE_EXTERNAL_STORAGE",
               "com.lastwave.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "package_name": "com.metrolist.music",
+      "listing_status": "live",
+      "publisher": {
+        "name": "Metrolist",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "Metrolist",
+        "description": "Metrolist is a Material 3 YouTube Music client for Android.\n\nFeatures:\n- Play any song or video from YouTube Music\n- Background playback\n- Personalized quick picks\n- Library management\n- Download and cache songs for offline playback\n- Search for songs, albums, artists, videos and playlists\n- Live lyrics\n- YouTube Music account login support\n- Syncing of songs, artists, albums and playlists, to and from your account\n- Skip silence\n- Import playlists\n- Audio normalization\n- Adjust tempo and pitch\n- Local playlist management\n- Reorder songs in a playlist or the queue\n- Light, Dark, black and Dynamic themes\n- Sleep timer\n- Full Material 3 design\n\nMetrolist is not affiliated with YouTube or Google.",
+        "icon": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/268",
+          "sha256": "6949ca1b1bca3e5aa7030440b6d0dfb394f2ea073c4b073bc6beff39835a58c4"
+        },
+        "screenshots": [
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/269",
+            "sha256": "8e0ad157f055767d5cb70846df59e5f6b990e1274731dae44cd5f5b1d06c94fc",
+            "alt": "Metrolist screenshot 1",
+            "width": 1080,
+            "height": 2160
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/270",
+            "sha256": "04fdda40ae7231c98e0d7527f7f01148bd4ddea5aab039077b92161aeb6e6c57",
+            "alt": "Metrolist screenshot 2",
+            "width": 1080,
+            "height": 2160
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/271",
+            "sha256": "62ad89029dc766a16cf53851ab9dd2191b45e00800cd5f8a98cadf70c3362e08",
+            "alt": "Metrolist screenshot 3",
+            "width": 1080,
+            "height": 2160
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/272",
+            "sha256": "fa5bd4e3d281bf77aba0eb28b1457e8e2d0318b2cdf399b9f32e9da40dca51d2",
+            "alt": "Metrolist screenshot 4",
+            "width": 1080,
+            "height": 2160
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/273",
+            "sha256": "6e4a7b914f8698254d772fe64b794f4c5d19c3cd59687693a2eed807e856cba7",
+            "alt": "Metrolist screenshot 5",
+            "width": 1080,
+            "height": 2160
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/274",
+            "sha256": "10a5e9713779fd9a858444f8e384548e61b7cf52136b2a7ce60902b6380a41b5",
+            "alt": "Metrolist screenshot 6",
+            "width": 1080,
+            "height": 2160
+          }
+        ],
+        "feature_graphic": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/275",
+          "sha256": "4a96a2853af7c16ecd5b7ec685c525ac59ab09ed1f4478bdf66733aaa20d215a",
+          "alt": "Metrolist feature graphic"
+        },
+        "video": null,
+        "content_rating": "Teen",
+        "data_safety": {
+          "collects_data": true,
+          "data_types": [
+            "personal_info",
+            "app_activity",
+            "app_info_and_performance"
+          ],
+          "shared_with_third_parties": false,
+          "encrypted_in_transit": true,
+          "deletion_request_url": "https://github.com/King-Fisher000/Metrolist/blob/main/PRIVACY.md"
+        },
+        "contains_ads": false,
+        "has_in_app_purchases": false,
+        "privacy_policy_url": "https://github.com/King-Fisher000/Metrolist/blob/main/PRIVACY.md",
+        "translations": {}
+      },
+      "slug": "metrolist",
+      "summary": "Material 3 YouTube Music client for Android",
+      "app_type": "app",
+      "category": "music_and_audio",
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-21T13:24:45Z",
+      "updated_at": "2026-10-22T07:02:03Z",
+      "editorial": {
+        "featured": true,
+        "editors_pick": false
+      },
+      "verification": {
+        "developer_verified": true,
+        "package_registered": false,
+        "signing_key_registered": false,
+        "checked_at": null
+      },
+      "base_stats": {
+        "downloads": 764338902,
+        "rating": {
+          "average": 4.49,
+          "count": 3884120
+        }
+      },
+      "reviews": [
+        {
+          "author_name": "Mateo G.",
+          "rating": 5,
+          "body": "Material 3 done right. Looks like it shipped with my Pixel.",
+          "commented_on": "2025-11-26T00:00:00Z",
+          "helpful_count": 142,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Lucia F.",
+          "rating": 5,
+          "body": "Login and library sync work flawlessly. My playlists came across instantly.",
+          "commented_on": "2025-12-30T00:00:00Z",
+          "helpful_count": 108,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Diego R.",
+          "rating": 4,
+          "body": "Audio normalization is a lifesaver for my old playlists.",
+          "commented_on": "2026-02-02T00:00:00Z",
+          "helpful_count": 66,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Carmen S.",
+          "rating": 5,
+          "body": "Tempo and pitch control without distortion. Very well engineered.",
+          "commented_on": "2026-03-08T00:00:00Z",
+          "helpful_count": 73,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Pablo M.",
+          "rating": 5,
+          "body": "Skip silence is such a small feature that makes a huge difference.",
+          "commented_on": "2026-04-11T00:00:00Z",
+          "helpful_count": 89,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Elena T.",
+          "rating": 4,
+          "body": "Clean and fast. Would love widgets on the home screen.",
+          "commented_on": "2026-05-15T00:00:00Z",
+          "helpful_count": 44,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Javier L.",
+          "rating": 5,
+          "body": "Imported my YouTube Music library perfectly. Never looking back.",
+          "commented_on": "2026-06-18T00:00:00Z",
+          "helpful_count": 95,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Rosa A.",
+          "rating": 4,
+          "body": "Sleep timer works great. Minor issue with the queue after a reboot.",
+          "commented_on": "2026-07-22T00:00:00Z",
+          "helpful_count": 31,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Andres C.",
+          "rating": 3,
+          "body": "Good app overall but search occasionally returns stale results.",
+          "commented_on": "2026-08-25T00:00:00Z",
+          "helpful_count": 18,
+          "developer_reply": null,
+          "developer_replied_at": null
+        }
+      ],
+      "anonymous_reviews": [],
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "153",
+      "versions": [
+        {
+          "release_id": 77,
+          "version_name": "13.7.0",
+          "version_code": "153",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/77",
+          "sha256": "b3a81b25bafaf493a085f65a052381cfd61798946560f4154caf416ece0e9b65",
+          "size_bytes": 27249733,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Release build signed with the King-Fisher000 release key",
+          "released_at": "2026-10-22T05:12:24Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 26,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+              "android.permission.INTERNET",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.RECORD_AUDIO",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.SCHEDULE_EXACT_ALARM",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "com.metrolist.music.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
             ]
           },
           "rollout": {

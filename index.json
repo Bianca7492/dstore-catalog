@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T07:18:45Z",
+  "generated_at": "2026-10-22T07:26:38Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T07:18:45Z",
+  "expires_at": "2026-10-24T07:26:38Z",
   "apps": [
     {
       "id": 2,
@@ -262,7 +262,7 @@
         "title": "BitChord",
         "description": "BitChord is an aesthetic YouTube Music client for Android, built for people who care how their music app looks and feels.\n\nFeatures:\n- Stream from YouTube Music with a clean, modern interface\n- Synchronized lyrics with word-by-word highlighting\n- Offline downloads for tracks, albums and playlists\n- Background playback with full media notification controls\n- Queue management with reordering and play-next\n- Spotify and Discord integration\n- Apple Music inspired and Material You themes\n- No ads, no tracking, no account required to start\n\nBitChord is not affiliated with, endorsed by, or connected to YouTube or Google in any way.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/238",
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/293",
           "sha256": "e70cb2704163721274df90c492e12b1dcaba826b0466ff31329880f7b9f84d42"
         },
         "screenshots": [

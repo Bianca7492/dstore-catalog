@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T07:03:24Z",
+  "generated_at": "2026-10-22T07:03:40Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T07:03:24Z",
+  "expires_at": "2026-10-24T07:03:40Z",
   "apps": [
     {
       "id": 2,
@@ -1219,6 +1219,251 @@
               "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
               "android.permission.WAKE_LOCK",
               "com.metrolist.music.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "package_name": "com.nikhil.yt",
+      "listing_status": "live",
+      "publisher": {
+        "name": "Nikhil",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "Velune",
+        "description": "Velune is a premium ad-free YouTube Music client for Android built with Kotlin and Jetpack Compose.\n\nFeatures:\n- Ad-free YouTube Music playback\n- Background playback with battery optimization\n- Personalized Quick Picks and Keep Listening sections\n- Offline caching and downloads for playback without internet\n- Synced word-by-word lyrics with translation support\n- Material You dynamic theming that adapts to album art colors\n- Search for songs, albums, artists, playlists and videos\n- YouTube Music account login and library sync\n- Import playlists from YouTube Music\n- Gapless playback and crossfade\n- Silence skipping\n- Audio normalization (EBU R128)\n- Tempo and pitch control\n- Sleep timer\n- Discord Rich Presence integration\n- Last.fm and ListenBrainz scrobbling\n- Light, Dark, AMOLED and Dynamic themes\n- Customizable home feed\n\nVelune is not affiliated with YouTube or Google.",
+        "icon": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/276",
+          "sha256": "00543e2d8289b89862680edee7532b7e5413cb646619edd8ec1ffd159abf7e12"
+        },
+        "screenshots": [
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/277",
+            "sha256": "63bd63c25b56d52d265cb09be3b8f14f22cc4c51a4062eb0c4c3811c19f1fa47",
+            "alt": "Velune screenshot 1",
+            "width": 648,
+            "height": 1296
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/278",
+            "sha256": "ec8b28f94e187a728042affb667b9cb1dc29e38d93951376436f95dfbc124d83",
+            "alt": "Velune screenshot 2",
+            "width": 648,
+            "height": 1296
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/279",
+            "sha256": "4c2be69477b531e2ed12fe5f5558de70276b46b26c3a3e80e95a2070b1c152ff",
+            "alt": "Velune screenshot 3",
+            "width": 648,
+            "height": 1296
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/280",
+            "sha256": "fb8440f2b7ced3e53e4f8fe4ca8e22c35e92f849903fe77aa94c85ddc4bbca0e",
+            "alt": "Velune screenshot 4",
+            "width": 648,
+            "height": 1296
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/281",
+            "sha256": "de510428364985e1e176b02c60beee0dd3d4826ab3972a7c5fe5d0c40cee230a",
+            "alt": "Velune screenshot 5",
+            "width": 648,
+            "height": 1296
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/282",
+            "sha256": "5c5bdc9d64da7a41d8f8f3ab43d4e0f787102aed0c609df077984ccf44cb56e7",
+            "alt": "Velune screenshot 6",
+            "width": 648,
+            "height": 1296
+          }
+        ],
+        "feature_graphic": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/283",
+          "sha256": "44c8cc159cb642ef28c76853f975a03bcab83a583deb2be856fa16cd176cbaa7",
+          "alt": "Velune feature graphic"
+        },
+        "video": null,
+        "content_rating": "Teen",
+        "data_safety": {
+          "collects_data": true,
+          "data_types": [
+            "personal_info",
+            "app_activity",
+            "app_info_and_performance"
+          ],
+          "shared_with_third_parties": false,
+          "encrypted_in_transit": true,
+          "deletion_request_url": "https://github.com/King-Fisher000/Velune/blob/main/PRIVACY.md"
+        },
+        "contains_ads": false,
+        "has_in_app_purchases": false,
+        "privacy_policy_url": "https://github.com/King-Fisher000/Velune/blob/main/PRIVACY.md",
+        "translations": {}
+      },
+      "slug": "velune",
+      "summary": "Premium ad-free YouTube Music client for Android",
+      "app_type": "app",
+      "category": "music_and_audio",
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-21T13:24:45Z",
+      "updated_at": "2026-10-22T07:03:33Z",
+      "editorial": {
+        "featured": false,
+        "editors_pick": false
+      },
+      "verification": {
+        "developer_verified": true,
+        "package_registered": false,
+        "signing_key_registered": false,
+        "checked_at": null
+      },
+      "base_stats": {
+        "downloads": 156774201,
+        "rating": {
+          "average": 4.77,
+          "count": 998337
+        }
+      },
+      "reviews": [
+        {
+          "author_name": "Henry K.",
+          "rating": 5,
+          "body": "Premium feel all around. The dynamic theming from album art is beautiful.",
+          "commented_on": "2025-11-26T00:00:00Z",
+          "helpful_count": 87,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Chloe M.",
+          "rating": 5,
+          "body": "Discord Rich Presence and Last.fm scrobbling in one app? Instant install.",
+          "commented_on": "2025-12-30T00:00:00Z",
+          "helpful_count": 74,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Oliver S.",
+          "rating": 4,
+          "body": "Gapless playback is perfect. Crossfade could use a bit more tuning.",
+          "commented_on": "2026-02-02T00:00:00Z",
+          "helpful_count": 52,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Amelia W.",
+          "rating": 5,
+          "body": "Crossfade and silence skipping make albums flow beautifully.",
+          "commented_on": "2026-03-08T00:00:00Z",
+          "helpful_count": 68,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Jack D.",
+          "rating": 5,
+          "body": "The home feed customization is exactly what I wanted from a music client.",
+          "commented_on": "2026-04-11T00:00:00Z",
+          "helpful_count": 59,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Mia R.",
+          "rating": 4,
+          "body": "Beautiful design, battery optimization genuinely works.",
+          "commented_on": "2026-05-15T00:00:00Z",
+          "helpful_count": 43,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Leo B.",
+          "rating": 5,
+          "body": "Lyrics with translation support is a killer feature for foreign tracks.",
+          "commented_on": "2026-06-18T00:00:00Z",
+          "helpful_count": 76,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Zoe P.",
+          "rating": 4,
+          "body": "Very polished. Occasional hiccup syncing a large library.",
+          "commented_on": "2026-07-22T00:00:00Z",
+          "helpful_count": 27,
+          "developer_reply": null,
+          "developer_replied_at": null
+        }
+      ],
+      "anonymous_reviews": [],
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "10",
+      "versions": [
+        {
+          "release_id": 78,
+          "version_name": "1.1.2 ",
+          "version_code": "10",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/78",
+          "sha256": "d3a7b7e8570fbd22526d215abb3f980f846d50b9ee9483582022736d75a16b6c",
+          "size_bytes": 109220549,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Release build signed with the King-Fisher000 release key",
+          "released_at": "2026-10-22T05:19:22Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 26,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ACCESS_WIFI_STATE",
+              "android.permission.BLUETOOTH_CONNECT",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.INTERNET",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.READ_MEDIA_AUDIO",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.RECORD_AUDIO",
+              "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "com.nikhil.yt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
             ]
           },
           "rollout": {

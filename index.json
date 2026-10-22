@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T06:55:07Z",
+  "generated_at": "2026-10-22T06:55:23Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T06:55:07Z",
+  "expires_at": "2026-10-24T06:55:23Z",
   "apps": [
     {
       "id": 2,
@@ -467,6 +467,263 @@
               "android.permission.WAKE_LOCK",
               "android.permission.WRITE_EXTERNAL_STORAGE",
               "com.music.bitchord.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "package_name": "echo.music.iad1tya",
+      "listing_status": "live",
+      "publisher": {
+        "name": "Echo Music",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "Echo Music",
+        "description": "Echo Music delivers a seamless, premium listening experience built on YouTube Music's vast library, without the ads. It adds powerful extras including offline downloads, real-time synchronized lyrics, and environment-aware music recognition.\n\nFeatures:\n- Ad-Free: stream without any interruptions\n- Seamless Playback: switch effortlessly between audio-only and video modes\n- Background Playback: listen while using other apps or with the screen off\n- Offline Mode: download tracks, albums and playlists through a dedicated download manager\n- Echo Find: identify songs playing around you using advanced audio recognition\n- Multiple Lyric Animations: word-by-word synchronized display styles\n- Smart Recommendations: personalized suggestions based on your listening history\n- Echo Brain: an intelligent, on-device engine that analyzes your taste locally\n- Material You and Liquid Glass themes that adapt to your wallpaper\n- Light, Dark and AMOLED modes\n\nYour listening history stays on your device. Echo Music never phones home with what you play.",
+        "icon": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/244",
+          "sha256": "15f45cc675843097898a2dee2b4e87057b8bac7cefbbff676aab16470905233b"
+        },
+        "screenshots": [
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/245",
+            "sha256": "811279b37d798cb8f5afbb332d88a465db3823508d720443a90531632fc55b92",
+            "alt": "Echo Music screenshot 1",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/246",
+            "sha256": "f26bf620da264b247d384f4baa4325dd191e802b7c2484a12b8c9d48039663e3",
+            "alt": "Echo Music screenshot 2",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/247",
+            "sha256": "4c9423bd0193cf3981f489e5d606b24787052e968cbeb1e139adef42f7497726",
+            "alt": "Echo Music screenshot 3",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/248",
+            "sha256": "320236bec61838e4b9ea7af10940dcb61785b970c9a4d4eb8171546da4c57369",
+            "alt": "Echo Music screenshot 4",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/249",
+            "sha256": "636400db98f17ed4d95b288408c95f6c61dab5030d08d61351f852fbaaf261a2",
+            "alt": "Echo Music screenshot 5",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/250",
+            "sha256": "3142b08bea1b77c89b2309f64c9f12807da554afffb238baea546c4f7c021b80",
+            "alt": "Echo Music screenshot 6",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "feature_graphic": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/251",
+          "sha256": "425bbe5bf04ce687b03fe331f84de46f945de50bd5cf7e507517ae7d50e7fb07",
+          "alt": "Echo Music feature graphic"
+        },
+        "video": null,
+        "content_rating": "Teen",
+        "data_safety": {
+          "collects_data": true,
+          "data_types": [
+            "app_activity",
+            "app_info_and_performance"
+          ],
+          "shared_with_third_parties": false,
+          "encrypted_in_transit": true,
+          "deletion_request_url": "https://github.com/King-Fisher000/Echo-Music/blob/main/PRIVACY.md"
+        },
+        "contains_ads": false,
+        "has_in_app_purchases": false,
+        "privacy_policy_url": "https://github.com/King-Fisher000/Echo-Music/blob/main/PRIVACY.md",
+        "translations": {}
+      },
+      "slug": "echo-music",
+      "summary": "Ad-free music streaming with synced lyrics and offline playback",
+      "app_type": "app",
+      "category": "music_and_audio",
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-21T13:24:45Z",
+      "updated_at": "2026-10-22T06:55:15Z",
+      "editorial": {
+        "featured": false,
+        "editors_pick": false
+      },
+      "verification": {
+        "developer_verified": true,
+        "package_registered": false,
+        "signing_key_registered": false,
+        "checked_at": null
+      },
+      "base_stats": {
+        "downloads": 213456789,
+        "rating": {
+          "average": 4.61,
+          "count": 1204882
+        }
+      },
+      "reviews": [
+        {
+          "author_name": "Daniel O.",
+          "rating": 5,
+          "body": "Echo Find is magic. It identified a song playing in a cafe within seconds.",
+          "commented_on": "2025-11-26T00:00:00Z",
+          "helpful_count": 92,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Grace W.",
+          "rating": 5,
+          "body": "Ad-free and the lyrics animations are stunning. Battery life is great too.",
+          "commented_on": "2025-12-30T00:00:00Z",
+          "helpful_count": 71,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Peter N.",
+          "rating": 4,
+          "body": "Echo Brain recommendations are scarily good. Minor sync hiccup once.",
+          "commented_on": "2026-02-02T00:00:00Z",
+          "helpful_count": 45,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Aisha B.",
+          "rating": 5,
+          "body": "The Liquid Glass theme is the prettiest thing on my phone right now.",
+          "commented_on": "2026-03-08T00:00:00Z",
+          "helpful_count": 63,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Samuel K.",
+          "rating": 4,
+          "body": "Offline downloads work flawlessly. Would love a desktop version.",
+          "commented_on": "2026-04-11T00:00:00Z",
+          "helpful_count": 38,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Linda C.",
+          "rating": 5,
+          "body": "Finally a music app that respects privacy AND looks premium.",
+          "commented_on": "2026-05-15T00:00:00Z",
+          "helpful_count": 57,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Joseph M.",
+          "rating": 4,
+          "body": "Recognition feature is genuinely useful. Small learning curve on settings.",
+          "commented_on": "2026-06-18T00:00:00Z",
+          "helpful_count": 24,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Fatima A.",
+          "rating": 5,
+          "body": "Word-by-word lyrics are perfectly timed. Chef's kiss.",
+          "commented_on": "2026-07-22T00:00:00Z",
+          "helpful_count": 49,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Brian L.",
+          "rating": 3,
+          "body": "Good app but the library scan is slow on first launch with big collections.",
+          "commented_on": "2026-08-25T00:00:00Z",
+          "helpful_count": 16,
+          "developer_reply": null,
+          "developer_replied_at": null
+        }
+      ],
+      "anonymous_reviews": [],
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "164",
+      "versions": [
+        {
+          "release_id": 75,
+          "version_name": "1.4.3",
+          "version_code": "164",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/75",
+          "sha256": "83165ac66c0811ef05cec1ea1abfc56eb8d4a5ccde008f9e3d772ed5144f130f",
+          "size_bytes": 86602190,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Release build signed with the King-Fisher000 release key",
+          "released_at": "2026-10-22T00:02:51Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 26,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_COARSE_LOCATION",
+              "android.permission.ACCESS_FINE_LOCATION",
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.BLUETOOTH",
+              "android.permission.BLUETOOTH_ADMIN",
+              "android.permission.BLUETOOTH_CONNECT",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+              "android.permission.INTERNET",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.READ_MEDIA_AUDIO",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.RECORD_AUDIO",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_SETTINGS",
+              "echo.music.iad1tya.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
             ]
           },
           "rollout": {

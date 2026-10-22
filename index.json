@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T07:16:20Z",
+  "generated_at": "2026-10-22T07:16:38Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T07:16:20Z",
+  "expires_at": "2026-10-24T07:16:38Z",
   "apps": [
     {
       "id": 2,
@@ -293,6 +293,13 @@
             "alt": "BitChord screenshot 5",
             "width": 1920,
             "height": 1080
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/292",
+            "sha256": "eaacc164f0baec892779d2a110115a63a86b3501f9f9f6dba4ab0cf5f6403c5a",
+            "alt": "BitChord now playing",
+            "width": 1600,
+            "height": 900
           }
         ],
         "feature_graphic": {

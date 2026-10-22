@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T11:37:00Z",
+  "generated_at": "2026-10-22T11:54:46Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T11:37:00Z",
+  "expires_at": "2026-10-24T11:54:46Z",
   "apps": [
     {
       "id": 2,
@@ -496,7 +496,7 @@
         "joined_at": null
       },
       "listing": {
-        "title": "Flow",
+        "title": "YouTube-X",
         "description": "Flow (YouTube-X) is a privacy-first YouTube and YouTube Music client. It provides a personalized feed using a completely local, on-device algorithm, giving you a modern discovery experience without tracking or accounts.\n\nFeatures:\n- Play videos and songs from YouTube and YouTube Music\n- Local recommendation engine that learns your preferences on-device\n- 100% on-device privacy with zero analytics or tracking\n- No Google account required\n- Background audio and Picture-in-Picture video playback\n- Built-in SponsorBlock to automatically skip sponsored segments\n- Built-in DeArrow to replace clickbait titles and thumbnails\n- Built-in Return YouTube Dislike\n- Download videos and audio for offline playback\n- Dedicated music player with synchronized live lyrics\n- Import subscriptions, playlists and history from YouTube, NewPipe and LibreTube\n\nFlow keeps your recommendations and watch history entirely on your own device.",
         "icon": {
           "url": "https://zealot-deploy-latest.onrender.com/download/graphics/284",
@@ -565,7 +565,7 @@
         "privacy_policy_url": "https://github.com/King-Fisher000/Flow/blob/main/PRIVACY.md",
         "translations": {}
       },
-      "slug": "flow",
+      "slug": "youtube-x",
       "summary": "Privacy-first YouTube and Music client with local recommendations",
       "app_type": "app",
       "category": "video_players_and_editors",
@@ -578,7 +578,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-22T07:15:25Z",
+      "updated_at": "2026-10-22T11:54:43Z",
       "editorial": {
         "featured": true,
         "editors_pick": false
@@ -1505,7 +1505,7 @@
         "joined_at": null
       },
       "listing": {
-        "title": "Velune",
+        "title": "YT-PRO",
         "description": "Velune is a premium ad-free YouTube Music client for Android built with Kotlin and Jetpack Compose.\n\nFeatures:\n- Ad-free YouTube Music playback\n- Background playback with battery optimization\n- Personalized Quick Picks and Keep Listening sections\n- Offline caching and downloads for playback without internet\n- Synced word-by-word lyrics with translation support\n- Material You dynamic theming that adapts to album art colors\n- Search for songs, albums, artists, playlists and videos\n- YouTube Music account login and library sync\n- Import playlists from YouTube Music\n- Gapless playback and crossfade\n- Silence skipping\n- Audio normalization (EBU R128)\n- Tempo and pitch control\n- Sleep timer\n- Discord Rich Presence integration\n- Last.fm and ListenBrainz scrobbling\n- Light, Dark, AMOLED and Dynamic themes\n- Customizable home feed\n\nVelune is not affiliated with YouTube or Google.",
         "icon": {
           "url": "https://zealot-deploy-latest.onrender.com/download/graphics/276",
@@ -1578,7 +1578,7 @@
         "privacy_policy_url": "https://github.com/King-Fisher000/Velune/blob/main/PRIVACY.md",
         "translations": {}
       },
-      "slug": "velune",
+      "slug": "yt-pro",
       "summary": "Premium ad-free YouTube Music client for Android",
       "app_type": "app",
       "category": "music_and_audio",
@@ -1591,7 +1591,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-22T07:03:33Z",
+      "updated_at": "2026-10-22T11:54:45Z",
       "editorial": {
         "featured": false,
         "editors_pick": false

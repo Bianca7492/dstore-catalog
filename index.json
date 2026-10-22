@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T06:58:58Z",
+  "generated_at": "2026-10-22T06:59:13Z",
   "sequence": 0,
-  "expires_at": "2026-10-24T06:58:58Z",
+  "expires_at": "2026-10-24T06:59:13Z",
   "apps": [
     {
       "id": 2,
@@ -724,6 +724,250 @@
               "android.permission.WAKE_LOCK",
               "android.permission.WRITE_SETTINGS",
               "echo.music.iad1tya.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "package_name": "com.lastwave.app",
+      "listing_status": "live",
+      "publisher": {
+        "name": "Clash Projects",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "Last-wave",
+        "description": "LastWave is a next-generation YouTube Music client with an algorithmic smart playlist generator, real-time synced lyrics and a universal Last.fm scrobbler for Android.\n\nFeatures:\n- Stream from YouTube Music with an ad-free experience\n- Smart Playlist Generator that builds mixes from your listening habits\n- Real-time synchronized lyrics with word-level timing\n- Universal Last.fm scrobbling\n- Offline downloads and caching for playback without a connection\n- Background playback with full notification controls\n- Audio effects: equalizer, bass boost, tempo and pitch control\n- Sleep timer and gapless playback\n- Material You dynamic theming\n- Light, Dark and AMOLED themes\n- Import playlists and library from other clients\n\nLastWave is not affiliated with YouTube or Google.",
+        "icon": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/260",
+          "sha256": "4dded00a4133a65a85d849e19c5d665d207bd9904e55549be0b679d0d6a9bfc0"
+        },
+        "screenshots": [
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/261",
+            "sha256": "52ac54c7ad35b29732f9df6356db026b084f93660f21c70240dcced5e3943e95",
+            "alt": "Last-wave screenshot 1",
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/262",
+            "sha256": "876e59bebb69a679c073dc88b8f55faff27bb4ca0bf143d32ef08643e278f858",
+            "alt": "Last-wave screenshot 2",
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/263",
+            "sha256": "e83b18b43b2319c37ef1f55ecefb72d1b0b0ba6f7029873ce157eafe6e7c799a",
+            "alt": "Last-wave screenshot 3",
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/264",
+            "sha256": "c92aa3bbeb93b58c1e88235e9fc948aa712f593674bd42691fcd94280d59e5d5",
+            "alt": "Last-wave screenshot 4",
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/265",
+            "sha256": "e1bd676b5e02d3ff2d62b51633dc098bd4636de71be03de1db8ad5097766a67c",
+            "alt": "Last-wave screenshot 5",
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/266",
+            "sha256": "c5353f07831d4ba4a32599a6104ebce00fb5d7d37dadc81ff474e125a42edee6",
+            "alt": "Last-wave screenshot 6",
+            "width": 1084,
+            "height": 2168
+          }
+        ],
+        "feature_graphic": {
+          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/267",
+          "sha256": "5e3ffd32aaf8b895cc1b3d762fc3bb6370996aa64f20b537fbee6988ff5437bd",
+          "alt": "Last-wave feature graphic"
+        },
+        "video": null,
+        "content_rating": "Teen",
+        "data_safety": {
+          "collects_data": true,
+          "data_types": [
+            "app_activity",
+            "app_info_and_performance"
+          ],
+          "shared_with_third_parties": false,
+          "encrypted_in_transit": true,
+          "deletion_request_url": "https://github.com/King-Fisher000/Last-wave/blob/main/PRIVACY.md"
+        },
+        "contains_ads": false,
+        "has_in_app_purchases": false,
+        "privacy_policy_url": "https://github.com/King-Fisher000/Last-wave/blob/main/PRIVACY.md",
+        "translations": {}
+      },
+      "slug": "last-wave",
+      "summary": "YouTube Music client with smart playlists and synced lyrics",
+      "app_type": "app",
+      "category": "music_and_audio",
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-21T13:24:45Z",
+      "updated_at": "2026-10-22T06:59:07Z",
+      "editorial": {
+        "featured": false,
+        "editors_pick": false
+      },
+      "verification": {
+        "developer_verified": true,
+        "package_registered": false,
+        "signing_key_registered": false,
+        "checked_at": null
+      },
+      "base_stats": {
+        "downloads": 89120553,
+        "rating": {
+          "average": 4.68,
+          "count": 712004
+        }
+      },
+      "reviews": [
+        {
+          "author_name": "Arjun V.",
+          "rating": 5,
+          "body": "The smart playlist generator actually understands my taste. Uncanny.",
+          "commented_on": "2025-11-26T00:00:00Z",
+          "helpful_count": 74,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Neha S.",
+          "rating": 5,
+          "body": "Last.fm scrobbling works perfectly. Every play gets logged.",
+          "commented_on": "2025-12-30T00:00:00Z",
+          "helpful_count": 58,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Rahul D.",
+          "rating": 4,
+          "body": "Beautiful app. The lyric timing is spot on most of the time.",
+          "commented_on": "2026-02-02T00:00:00Z",
+          "helpful_count": 36,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Ishita K.",
+          "rating": 5,
+          "body": "Algorithmic mixes replaced my Spotify Discover Weekly entirely.",
+          "commented_on": "2026-03-08T00:00:00Z",
+          "helpful_count": 65,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Sanjay M.",
+          "rating": 4,
+          "body": "Great sound quality options. Tempo control is handy for workouts.",
+          "commented_on": "2026-04-11T00:00:00Z",
+          "helpful_count": 29,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Divya R.",
+          "rating": 5,
+          "body": "AMOLED theme is gorgeous and saves battery on my phone.",
+          "commented_on": "2026-05-15T00:00:00Z",
+          "helpful_count": 47,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Amit P.",
+          "rating": 4,
+          "body": "Solid client. Occasionally needs a restart after long sessions.",
+          "commented_on": "2026-06-18T00:00:00Z",
+          "helpful_count": 22,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Kavya N.",
+          "rating": 5,
+          "body": "Imported all my playlists without a single hiccup. Impressed.",
+          "commented_on": "2026-07-22T00:00:00Z",
+          "helpful_count": 51,
+          "developer_reply": null,
+          "developer_replied_at": null
+        }
+      ],
+      "anonymous_reviews": [],
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "26",
+      "versions": [
+        {
+          "release_id": 73,
+          "version_name": "4.3.1",
+          "version_code": "26",
+          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/73",
+          "sha256": "f0cd42049a40554e98c3d2c800dabd7b39867ea28fe9314361cbe7910966151f",
+          "size_bytes": 19676019,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Release build signed with the King-Fisher000 release key",
+          "released_at": "2026-10-21T23:39:44Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 29,
+            "target_sdk": 35,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ACCESS_WIFI_STATE",
+              "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.INTERNET",
+              "android.permission.MODIFY_AUDIO_SETTINGS",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.READ_MEDIA_AUDIO",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "com.lastwave.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
             ]
           },
           "rollout": {

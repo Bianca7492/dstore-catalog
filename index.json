@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-22T16:02:12Z",
-  "sequence": 0,
-  "expires_at": "2026-10-24T16:02:12Z",
+  "generated_at": "2026-10-28T09:15:40Z",
+  "sequence": 1,
+  "expires_at": "2026-11-27T09:15:40Z",
   "apps": [
     {
       "id": 2,
@@ -19,40 +19,44 @@
         "title": "Appstore",
         "description": "Appstore is an open-source Android app store that scans six sources and merges them into one feed: GitHub, GitLab, F-Droid, IzzyOnDroid, APKPure and Aptoide. No ads and no bloat.\n\nFind what you want faster\n- Browse curated categories plus smart sections such as Trending and Newly Launched.\n- See screenshots pulled straight from each project's README.\n- Sync your GitHub starred repositories into your favourites.\n\nInstall with confidence\n- Every downloaded APK is checked against the signing certificate of the app already on your phone before it installs, so a hijacked repository or redirected release cannot silently replace what you have.\n- Your install history is kept, and you can roll back to a previous version from it.\n\nMade for everyone\n- Available in 16 languages, including English, Hindi, Spanish, French, German, Japanese, Portuguese, Arabic and Chinese.\n- Dismissible in-app announcements for releases and community updates.\n- Optional Liquid Glass Pro themes.\n\nAppstore is open source under the AGPL-3.0 licence.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/294",
-          "sha256": "d8dcc0c9bfb7740b8d1eaeffb8261254b4eb0a319f2866a2a6b885cb82b66703"
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/309",
+          "sha256": "7ad4d472147897a0920651da2dcaefed1d13447a7338b7ecf67e317283b57e44"
         },
         "screenshots": [
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/295",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/314",
             "sha256": "623b2d38ff9efe157237ba6ee9a541b0b66d1d317f4026a6380aac3168ebbad0",
             "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/296",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/315",
             "sha256": "ec1b6a3c34b0a81d0f084fe121b56905a1773e4159168b878a553d68884ef43a",
             "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/297",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/316",
             "sha256": "96a134f2525cdb22b29ac51dfaf08de7cdae00831027f3f30ac4e8367419205b",
             "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/298",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/317",
             "sha256": "22b9a177c4e2be4dd0a418b04533068b57615e22a1139b25fb94507038cecfae",
             "alt": null,
             "width": 1080,
             "height": 2160
           }
         ],
-        "feature_graphic": null,
+        "feature_graphic": {
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/352",
+          "sha256": "a0589d56db55f60440b99c16119405b4f921911e932fb33a03cdc83f39ef16e2",
+          "alt": null
+        },
         "video": null,
         "content_rating": null,
         "data_safety": {
@@ -92,7 +96,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 5789017,
+        "downloads": 5789000,
         "rating": {
           "average": 4.6,
           "count": 10
@@ -193,18 +197,18 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "333",
+      "suggested_version_code": "339",
       "versions": [
         {
-          "release_id": 79,
-          "version_name": "1.3.12",
-          "version_code": "333",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/79",
-          "sha256": "60accc91b9da6e89bafe11ddec4f883b01159d7a742c9fbe0b961cea1cf1b9f0",
-          "size_bytes": 9614354,
+          "release_id": 98,
+          "version_name": "1.3.18",
+          "version_code": "339",
+          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/98",
+          "sha256": "18f0f9db7e548d91efa7b8d0083a63588b0dee6b685f8440d0e5343b3bc1370c",
+          "size_bytes": 9548702,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 1.3.12 (build 333), commit 879f9fc.",
-          "released_at": "2026-10-22T11:31:47Z",
+          "changelog": "- Version 1.3.18 (build 339), commit e1ac484.",
+          "released_at": "2026-10-24T15:08:24Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
@@ -262,50 +266,43 @@
         "title": "BitChord",
         "description": "BitChord is an aesthetic YouTube Music client for Android, built for people who care how their music app looks and feels.\n\nFeatures:\n- Stream from YouTube Music with a clean, modern interface\n- Synchronized lyrics with word-by-word highlighting\n- Offline downloads for tracks, albums and playlists\n- Background playback with full media notification controls\n- Queue management with reordering and play-next\n- Spotify and Discord integration\n- Apple Music inspired and Material You themes\n- No ads, no tracking, no account required to start\n\nBitChord is not affiliated with, endorsed by, or connected to YouTube or Google in any way.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/293",
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/293",
           "sha256": "e70cb2704163721274df90c492e12b1dcaba826b0466ff31329880f7b9f84d42"
         },
         "screenshots": [
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/239",
-            "sha256": "f0a43df172f8b3d4846d0d3ef5c27f19bd449be9965b26d10af101d554796a87",
-            "alt": "BitChord screenshot 2",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/348",
+            "sha256": "9255b97f76840c308571a8229b2758aa4d37dbc9e0fd5626a6090006890308a1",
+            "alt": null,
             "width": 1920,
             "height": 1080
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/240",
-            "sha256": "903b0b227ff762caafd35a9c0af404c997710abc9b5d30c449c9f6bda51fefc1",
-            "alt": "BitChord screenshot 3",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/349",
+            "sha256": "b851cc6eb4cef595617ba94684935506ff97acb801ed3a861d184c41042669d2",
+            "alt": null,
             "width": 1920,
             "height": 1080
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/241",
-            "sha256": "c785c23db966234a0689ca548bc74cefeb5f100fcaaf3497c96615303683d8c1",
-            "alt": "BitChord screenshot 4",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/350",
+            "sha256": "80e4a700360b19e7829a8bcc25de406e1447c49af9b1e070d2cd73bd7bd9d24e",
+            "alt": null,
             "width": 1920,
             "height": 1080
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/242",
-            "sha256": "5a59badb4295c1125736477afca547410c97d83a7c49deef5976a10415793323",
-            "alt": "BitChord screenshot 5",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/351",
+            "sha256": "5f4c1a8b13ce19208414b49feb7bb7d31f55f6ee96c933d89411aa70b78901c0",
+            "alt": null,
             "width": 1920,
             "height": 1080
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/292",
-            "sha256": "eaacc164f0baec892779d2a110115a63a86b3501f9f9f6dba4ab0cf5f6403c5a",
-            "alt": "BitChord now playing",
-            "width": 1600,
-            "height": 900
           }
         ],
         "feature_graphic": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/243",
-          "sha256": "e794f1cd51e7ab999357dd3b83af3f8f45d61f54894716325bdc8b0bc2db4530",
-          "alt": "BitChord feature graphic"
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/353",
+          "sha256": "ca60957681c8dad46c6600cc06f1f0fa325d93146ee639db150595e8273629b4",
+          "alt": null
         },
         "video": null,
         "content_rating": "Teen",
@@ -318,11 +315,11 @@
           ],
           "shared_with_third_parties": false,
           "encrypted_in_transit": true,
-          "deletion_request_url": "https://bitchord.in/privacy"
+          "deletion_request_url": "https://github.com/Exploit7492/BitChord/blob/main/PRIVACY.md"
         },
         "contains_ads": false,
         "has_in_app_purchases": false,
-        "privacy_policy_url": "https://bitchord.in/privacy",
+        "privacy_policy_url": "https://github.com/Exploit7492/BitChord/blob/main/PRIVACY.md",
         "translations": {}
       },
       "slug": "bitchord",
@@ -338,7 +335,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-22T06:53:28Z",
+      "updated_at": "2026-10-24T07:46:27Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -350,7 +347,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 47832923,
+        "downloads": 47832914,
         "rating": {
           "average": 4.72,
           "count": 384201
@@ -433,18 +430,18 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "28",
+      "suggested_version_code": "30",
       "versions": [
         {
-          "release_id": 74,
-          "version_name": "1.8.1",
-          "version_code": "28",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/74",
-          "sha256": "bac1df1c82176c0f175d8e180bb9edbe0d75af3291ec4a8a9ee0dac1ac4d2c2c",
-          "size_bytes": 171611070,
+          "release_id": 94,
+          "version_name": "1.8.3",
+          "version_code": "30",
+          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/94",
+          "sha256": "14106f69d67480d0573e14da184b92c76f65fa4a10202cb7984bc6a118e269a4",
+          "size_bytes": 171545418,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Release build signed with the King-Fisher000 release key",
-          "released_at": "2026-10-21T23:50:21Z",
+          "changelog": "- Version 1.8.3 (build 30), commit 310d8ff.",
+          "released_at": "2026-10-24T11:41:01Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
@@ -485,263 +482,6 @@
       ]
     },
     {
-      "id": 6,
-      "package_name": "io.github.aedev.flow",
-      "listing_status": "live",
-      "publisher": {
-        "name": "aedev",
-        "verified": false,
-        "bio": null,
-        "profile_url": null,
-        "joined_at": null
-      },
-      "listing": {
-        "title": "YouTube-X",
-        "description": "Flow (YouTube-X) is a privacy-first YouTube and YouTube Music client. It provides a personalized feed using a completely local, on-device algorithm, giving you a modern discovery experience without tracking or accounts.\n\nFeatures:\n- Play videos and songs from YouTube and YouTube Music\n- Local recommendation engine that learns your preferences on-device\n- 100% on-device privacy with zero analytics or tracking\n- No Google account required\n- Background audio and Picture-in-Picture video playback\n- Built-in SponsorBlock to automatically skip sponsored segments\n- Built-in DeArrow to replace clickbait titles and thumbnails\n- Built-in Return YouTube Dislike\n- Download videos and audio for offline playback\n- Dedicated music player with synchronized live lyrics\n- Import subscriptions, playlists and history from YouTube, NewPipe and LibreTube\n\nFlow keeps your recommendations and watch history entirely on your own device.",
-        "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/299",
-          "sha256": "eb527b890b51a65915e3196703d8136bfb09a45638ff0035b12692348b485646"
-        },
-        "screenshots": [
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/285",
-            "sha256": "111cf693084e3bdc60f85db6b030ad18992d8538f49396c5eb3b8646f31c066c",
-            "alt": "Flow screenshot 1",
-            "width": 599,
-            "height": 1198
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/286",
-            "sha256": "e6ca7f7b6475e25b5076a74018e13b8a73bb2011e68d9c1625dada73b52f84df",
-            "alt": "Flow screenshot 2",
-            "width": 602,
-            "height": 1204
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/287",
-            "sha256": "e98c26e61470be52ec64910e4ecb3b9b8ea7a58355a2fc8f66558968f0a24ef1",
-            "alt": "Flow screenshot 3",
-            "width": 596,
-            "height": 1192
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/288",
-            "sha256": "61581d0e7ed9fff316206aa9f367e9850d8e57b0754037e00c96b6ecb4fe29fd",
-            "alt": "Flow screenshot 4",
-            "width": 602,
-            "height": 1204
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/289",
-            "sha256": "d92bcca8243b2b43a324e366bb04da6cf850265755dc39ef83570403582410bc",
-            "alt": "Flow screenshot 5",
-            "width": 599,
-            "height": 1198
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/290",
-            "sha256": "fc2ef889661400028bd6441fdfe884864ece10cc584504b27e06a0a9ba8bdc4a",
-            "alt": "Flow screenshot 6",
-            "width": 599,
-            "height": 1198
-          }
-        ],
-        "feature_graphic": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/291",
-          "sha256": "234b8d2b71686816c49eb27a502adffcadf4ff449cc050c13004cb3904456cf7",
-          "alt": "Flow feature graphic"
-        },
-        "video": null,
-        "content_rating": "Teen",
-        "data_safety": {
-          "collects_data": false,
-          "data_types": [],
-          "shared_with_third_parties": false,
-          "encrypted_in_transit": true,
-          "deletion_request_url": "https://github.com/King-Fisher000/Flow/blob/main/PRIVACY.md"
-        },
-        "contains_ads": false,
-        "has_in_app_purchases": false,
-        "privacy_policy_url": "https://github.com/King-Fisher000/Flow/blob/main/PRIVACY.md",
-        "translations": {}
-      },
-      "slug": "youtube-x",
-      "summary": "Privacy-first YouTube and Music client with local recommendations",
-      "app_type": "app",
-      "category": "video_players_and_editors",
-      "license": null,
-      "links": {
-        "site": null,
-        "source": null,
-        "tracker": null,
-        "donate": null
-      },
-      "available_regions": null,
-      "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-22T11:54:43Z",
-      "editorial": {
-        "featured": true,
-        "editors_pick": false
-      },
-      "verification": {
-        "developer_verified": true,
-        "package_registered": false,
-        "signing_key_registered": false,
-        "checked_at": null
-      },
-      "base_stats": {
-        "downloads": 538204122,
-        "rating": {
-          "average": 4.55,
-          "count": 2918446
-        }
-      },
-      "reviews": [
-        {
-          "author_name": "Noah T.",
-          "rating": 5,
-          "body": "Finally a YouTube client that doesn't send my watch history anywhere. Respect.",
-          "commented_on": "2025-11-26T00:00:00Z",
-          "helpful_count": 118,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Emma R.",
-          "rating": 5,
-          "body": "SponsorBlock built in means I never hear a mattress ad again. Glorious.",
-          "commented_on": "2025-12-30T00:00:00Z",
-          "helpful_count": 96,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Liam H.",
-          "rating": 4,
-          "body": "Local recommendations are surprisingly decent after a week of use.",
-          "commented_on": "2026-02-02T00:00:00Z",
-          "helpful_count": 62,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Olivia P.",
-          "rating": 5,
-          "body": "DeArrow alone is worth the install. No more shocked-face thumbnails.",
-          "commented_on": "2026-03-08T00:00:00Z",
-          "helpful_count": 84,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Ethan G.",
-          "rating": 4,
-          "body": "PiP works great. Wish the music player had a few more equalizer presets.",
-          "commented_on": "2026-04-11T00:00:00Z",
-          "helpful_count": 41,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Sophia D.",
-          "rating": 5,
-          "body": "Imported my whole LibreTube setup in one go. Seamless.",
-          "commented_on": "2026-05-15T00:00:00Z",
-          "helpful_count": 53,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Mason W.",
-          "rating": 5,
-          "body": "No account needed and it just works. This is how it should be.",
-          "commented_on": "2026-06-18T00:00:00Z",
-          "helpful_count": 77,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Isabella F.",
-          "rating": 4,
-          "body": "Privacy-first and functional. Slight lag when scrolling large feeds.",
-          "commented_on": "2026-07-22T00:00:00Z",
-          "helpful_count": 33,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Lucas B.",
-          "rating": 3,
-          "body": "Great concept, but downloads sometimes fail on flaky wifi.",
-          "commented_on": "2026-08-25T00:00:00Z",
-          "helpful_count": 21,
-          "developer_reply": null,
-          "developer_replied_at": null
-        }
-      ],
-      "anonymous_reviews": [],
-      "sponsored_slots": [],
-      "collections": [],
-      "suggested_version_code": "19",
-      "versions": [
-        {
-          "release_id": 80,
-          "version_name": "3.0.0",
-          "version_code": "19",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/80",
-          "sha256": "b4a9715dcd5558deb2a9d2a9e3518f94f0921a73237b6515d017e01eed2bf790",
-          "size_bytes": 29533127,
-          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Release build signed with the King-Fisher000 release key",
-          "released_at": "2026-10-22T11:56:38Z",
-          "status": "available",
-          "compatibility": {
-            "min_sdk": 26,
-            "target_sdk": 36,
-            "abis": [
-              "arm64-v8a",
-              "armeabi-v7a",
-              "x86",
-              "x86_64"
-            ],
-            "screen_densities": [],
-            "required_features": [],
-            "permissions": [
-              "android.permission.ACCESS_NETWORK_STATE",
-              "android.permission.ACCESS_WIFI_STATE",
-              "android.permission.CAMERA",
-              "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-              "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
-              "android.permission.FOREGROUND_SERVICE",
-              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-              "android.permission.INTERNET",
-              "android.permission.MANAGE_EXTERNAL_STORAGE",
-              "android.permission.POST_NOTIFICATIONS",
-              "android.permission.READ_EXTERNAL_STORAGE",
-              "android.permission.READ_MEDIA_AUDIO",
-              "android.permission.READ_MEDIA_VIDEO",
-              "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
-              "android.permission.RECEIVE_BOOT_COMPLETED",
-              "android.permission.RECORD_AUDIO",
-              "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-              "android.permission.REQUEST_INSTALL_PACKAGES",
-              "android.permission.SYSTEM_ALERT_WINDOW",
-              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-              "android.permission.WAKE_LOCK",
-              "android.permission.WRITE_EXTERNAL_STORAGE",
-              "io.github.aedev.flow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-            ]
-          },
-          "rollout": {
-            "percentage": 100,
-            "status": "active"
-          },
-          "delta_patches": []
-        }
-      ]
-    },
-    {
       "id": 5,
       "package_name": "echo.music.iad1tya",
       "listing_status": "live",
@@ -756,57 +496,57 @@
         "title": "Echo Music",
         "description": "Echo Music delivers a seamless, premium listening experience built on YouTube Music's vast library, without the ads. It adds powerful extras including offline downloads, real-time synchronized lyrics, and environment-aware music recognition.\n\nFeatures:\n- Ad-Free: stream without any interruptions\n- Seamless Playback: switch effortlessly between audio-only and video modes\n- Background Playback: listen while using other apps or with the screen off\n- Offline Mode: download tracks, albums and playlists through a dedicated download manager\n- Echo Find: identify songs playing around you using advanced audio recognition\n- Multiple Lyric Animations: word-by-word synchronized display styles\n- Smart Recommendations: personalized suggestions based on your listening history\n- Echo Brain: an intelligent, on-device engine that analyzes your taste locally\n- Material You and Liquid Glass themes that adapt to your wallpaper\n- Light, Dark and AMOLED modes\n\nYour listening history stays on your device. Echo Music never phones home with what you play.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/244",
-          "sha256": "15f45cc675843097898a2dee2b4e87057b8bac7cefbbff676aab16470905233b"
+          "url": "https://zealot-web-77t0.onrender.com/download/releases/93/icon",
+          "sha256": "382b97e0697cc4257a8bcb04c2112e665eef11d6044f1686949b722fe96f25d7"
         },
         "screenshots": [
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/245",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/318",
             "sha256": "811279b37d798cb8f5afbb332d88a465db3823508d720443a90531632fc55b92",
-            "alt": "Echo Music screenshot 1",
+            "alt": null,
             "width": 1080,
             "height": 1920
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/246",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/319",
             "sha256": "f26bf620da264b247d384f4baa4325dd191e802b7c2484a12b8c9d48039663e3",
-            "alt": "Echo Music screenshot 2",
+            "alt": null,
             "width": 1080,
             "height": 1920
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/247",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/320",
             "sha256": "4c9423bd0193cf3981f489e5d606b24787052e968cbeb1e139adef42f7497726",
-            "alt": "Echo Music screenshot 3",
+            "alt": null,
             "width": 1080,
             "height": 1920
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/248",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/321",
             "sha256": "320236bec61838e4b9ea7af10940dcb61785b970c9a4d4eb8171546da4c57369",
-            "alt": "Echo Music screenshot 4",
+            "alt": null,
             "width": 1080,
             "height": 1920
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/249",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/322",
             "sha256": "636400db98f17ed4d95b288408c95f6c61dab5030d08d61351f852fbaaf261a2",
-            "alt": "Echo Music screenshot 5",
+            "alt": null,
             "width": 1080,
             "height": 1920
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/250",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/323",
             "sha256": "3142b08bea1b77c89b2309f64c9f12807da554afffb238baea546c4f7c021b80",
-            "alt": "Echo Music screenshot 6",
+            "alt": null,
             "width": 1080,
             "height": 1920
           }
         ],
         "feature_graphic": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/251",
-          "sha256": "425bbe5bf04ce687b03fe331f84de46f945de50bd5cf7e507517ae7d50e7fb07",
-          "alt": "Echo Music feature graphic"
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/354",
+          "sha256": "117da0429237088526258607baab390a6740cd2b87f6a74e3f4fb2f73e343132",
+          "alt": null
         },
         "video": null,
         "content_rating": "Teen",
@@ -818,11 +558,11 @@
           ],
           "shared_with_third_parties": false,
           "encrypted_in_transit": true,
-          "deletion_request_url": "https://github.com/King-Fisher000/Echo-Music/blob/main/PRIVACY.md"
+          "deletion_request_url": "https://github.com/Exploit7492/Echo-Music/blob/main/PRIVACY_POLICY.md"
         },
         "contains_ads": false,
         "has_in_app_purchases": false,
-        "privacy_policy_url": "https://github.com/King-Fisher000/Echo-Music/blob/main/PRIVACY.md",
+        "privacy_policy_url": "https://github.com/Exploit7492/Echo-Music/blob/main/PRIVACY_POLICY.md",
         "translations": {}
       },
       "slug": "echo-music",
@@ -838,7 +578,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-22T06:55:15Z",
+      "updated_at": "2026-10-24T07:46:27Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -850,7 +590,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 213456799,
+        "downloads": 213456789,
         "rating": {
           "average": 4.61,
           "count": 1204882
@@ -942,18 +682,18 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "164",
+      "suggested_version_code": "167",
       "versions": [
         {
-          "release_id": 75,
-          "version_name": "1.4.3",
-          "version_code": "164",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/75",
-          "sha256": "83165ac66c0811ef05cec1ea1abfc56eb8d4a5ccde008f9e3d772ed5144f130f",
-          "size_bytes": 86602190,
+          "release_id": 93,
+          "version_name": "1.4.6",
+          "version_code": "167",
+          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/93",
+          "sha256": "53433b08608ac8c44fb63b96a85c6891e0a69ec18e81a02fd9b069991fe9bef6",
+          "size_bytes": 86528346,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Release build signed with the King-Fisher000 release key",
-          "released_at": "2026-10-22T00:02:51Z",
+          "changelog": "- Version 1.4.6 (build 167), commit e646702.",
+          "released_at": "2026-10-24T11:38:13Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
@@ -999,250 +739,6 @@
       ]
     },
     {
-      "id": 7,
-      "package_name": "com.lastwave.app",
-      "listing_status": "live",
-      "publisher": {
-        "name": "Clash Projects",
-        "verified": false,
-        "bio": null,
-        "profile_url": null,
-        "joined_at": null
-      },
-      "listing": {
-        "title": "Last-wave",
-        "description": "LastWave is a next-generation YouTube Music client with an algorithmic smart playlist generator, real-time synced lyrics and a universal Last.fm scrobbler for Android.\n\nFeatures:\n- Stream from YouTube Music with an ad-free experience\n- Smart Playlist Generator that builds mixes from your listening habits\n- Real-time synchronized lyrics with word-level timing\n- Universal Last.fm scrobbling\n- Offline downloads and caching for playback without a connection\n- Background playback with full notification controls\n- Audio effects: equalizer, bass boost, tempo and pitch control\n- Sleep timer and gapless playback\n- Material You dynamic theming\n- Light, Dark and AMOLED themes\n- Import playlists and library from other clients\n\nLastWave is not affiliated with YouTube or Google.",
-        "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/260",
-          "sha256": "4dded00a4133a65a85d849e19c5d665d207bd9904e55549be0b679d0d6a9bfc0"
-        },
-        "screenshots": [
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/261",
-            "sha256": "52ac54c7ad35b29732f9df6356db026b084f93660f21c70240dcced5e3943e95",
-            "alt": "Last-wave screenshot 1",
-            "width": 1084,
-            "height": 2168
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/262",
-            "sha256": "876e59bebb69a679c073dc88b8f55faff27bb4ca0bf143d32ef08643e278f858",
-            "alt": "Last-wave screenshot 2",
-            "width": 1084,
-            "height": 2168
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/263",
-            "sha256": "e83b18b43b2319c37ef1f55ecefb72d1b0b0ba6f7029873ce157eafe6e7c799a",
-            "alt": "Last-wave screenshot 3",
-            "width": 1084,
-            "height": 2168
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/264",
-            "sha256": "c92aa3bbeb93b58c1e88235e9fc948aa712f593674bd42691fcd94280d59e5d5",
-            "alt": "Last-wave screenshot 4",
-            "width": 1084,
-            "height": 2168
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/265",
-            "sha256": "e1bd676b5e02d3ff2d62b51633dc098bd4636de71be03de1db8ad5097766a67c",
-            "alt": "Last-wave screenshot 5",
-            "width": 1084,
-            "height": 2168
-          },
-          {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/266",
-            "sha256": "c5353f07831d4ba4a32599a6104ebce00fb5d7d37dadc81ff474e125a42edee6",
-            "alt": "Last-wave screenshot 6",
-            "width": 1084,
-            "height": 2168
-          }
-        ],
-        "feature_graphic": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/267",
-          "sha256": "5e3ffd32aaf8b895cc1b3d762fc3bb6370996aa64f20b537fbee6988ff5437bd",
-          "alt": "Last-wave feature graphic"
-        },
-        "video": null,
-        "content_rating": "Teen",
-        "data_safety": {
-          "collects_data": true,
-          "data_types": [
-            "app_activity",
-            "app_info_and_performance"
-          ],
-          "shared_with_third_parties": false,
-          "encrypted_in_transit": true,
-          "deletion_request_url": "https://github.com/King-Fisher000/Last-wave/blob/main/PRIVACY.md"
-        },
-        "contains_ads": false,
-        "has_in_app_purchases": false,
-        "privacy_policy_url": "https://github.com/King-Fisher000/Last-wave/blob/main/PRIVACY.md",
-        "translations": {}
-      },
-      "slug": "last-wave",
-      "summary": "YouTube Music client with smart playlists and synced lyrics",
-      "app_type": "app",
-      "category": "music_and_audio",
-      "license": null,
-      "links": {
-        "site": null,
-        "source": null,
-        "tracker": null,
-        "donate": null
-      },
-      "available_regions": null,
-      "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-22T06:59:07Z",
-      "editorial": {
-        "featured": false,
-        "editors_pick": false
-      },
-      "verification": {
-        "developer_verified": true,
-        "package_registered": false,
-        "signing_key_registered": false,
-        "checked_at": null
-      },
-      "base_stats": {
-        "downloads": 89120563,
-        "rating": {
-          "average": 4.68,
-          "count": 712004
-        }
-      },
-      "reviews": [
-        {
-          "author_name": "Arjun V.",
-          "rating": 5,
-          "body": "The smart playlist generator actually understands my taste. Uncanny.",
-          "commented_on": "2025-11-26T00:00:00Z",
-          "helpful_count": 74,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Neha S.",
-          "rating": 5,
-          "body": "Last.fm scrobbling works perfectly. Every play gets logged.",
-          "commented_on": "2025-12-30T00:00:00Z",
-          "helpful_count": 58,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Rahul D.",
-          "rating": 4,
-          "body": "Beautiful app. The lyric timing is spot on most of the time.",
-          "commented_on": "2026-02-02T00:00:00Z",
-          "helpful_count": 36,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Ishita K.",
-          "rating": 5,
-          "body": "Algorithmic mixes replaced my Spotify Discover Weekly entirely.",
-          "commented_on": "2026-03-08T00:00:00Z",
-          "helpful_count": 65,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Sanjay M.",
-          "rating": 4,
-          "body": "Great sound quality options. Tempo control is handy for workouts.",
-          "commented_on": "2026-04-11T00:00:00Z",
-          "helpful_count": 29,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Divya R.",
-          "rating": 5,
-          "body": "AMOLED theme is gorgeous and saves battery on my phone.",
-          "commented_on": "2026-05-15T00:00:00Z",
-          "helpful_count": 47,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Amit P.",
-          "rating": 4,
-          "body": "Solid client. Occasionally needs a restart after long sessions.",
-          "commented_on": "2026-06-18T00:00:00Z",
-          "helpful_count": 22,
-          "developer_reply": null,
-          "developer_replied_at": null
-        },
-        {
-          "author_name": "Kavya N.",
-          "rating": 5,
-          "body": "Imported all my playlists without a single hiccup. Impressed.",
-          "commented_on": "2026-07-22T00:00:00Z",
-          "helpful_count": 51,
-          "developer_reply": null,
-          "developer_replied_at": null
-        }
-      ],
-      "anonymous_reviews": [],
-      "sponsored_slots": [],
-      "collections": [],
-      "suggested_version_code": "26",
-      "versions": [
-        {
-          "release_id": 73,
-          "version_name": "4.3.1",
-          "version_code": "26",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/73",
-          "sha256": "f0cd42049a40554e98c3d2c800dabd7b39867ea28fe9314361cbe7910966151f",
-          "size_bytes": 19676019,
-          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Release build signed with the King-Fisher000 release key",
-          "released_at": "2026-10-21T23:39:44Z",
-          "status": "available",
-          "compatibility": {
-            "min_sdk": 29,
-            "target_sdk": 35,
-            "abis": [
-              "arm64-v8a",
-              "armeabi-v7a",
-              "x86",
-              "x86_64"
-            ],
-            "screen_densities": [],
-            "required_features": [],
-            "permissions": [
-              "android.permission.ACCESS_NETWORK_STATE",
-              "android.permission.ACCESS_WIFI_STATE",
-              "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-              "android.permission.FOREGROUND_SERVICE",
-              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
-              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-              "android.permission.INTERNET",
-              "android.permission.MODIFY_AUDIO_SETTINGS",
-              "android.permission.POST_NOTIFICATIONS",
-              "android.permission.READ_EXTERNAL_STORAGE",
-              "android.permission.READ_MEDIA_AUDIO",
-              "android.permission.RECEIVE_BOOT_COMPLETED",
-              "android.permission.REQUEST_INSTALL_PACKAGES",
-              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
-              "android.permission.WAKE_LOCK",
-              "android.permission.WRITE_EXTERNAL_STORAGE",
-              "com.lastwave.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-            ]
-          },
-          "rollout": {
-            "percentage": 100,
-            "status": "active"
-          },
-          "delta_patches": []
-        }
-      ]
-    },
-    {
       "id": 8,
       "package_name": "com.metrolist.music",
       "listing_status": "live",
@@ -1257,57 +753,57 @@
         "title": "Metrolist",
         "description": "Metrolist is a Material 3 YouTube Music client for Android.\n\nFeatures:\n- Play any song or video from YouTube Music\n- Background playback\n- Personalized quick picks\n- Library management\n- Download and cache songs for offline playback\n- Search for songs, albums, artists, videos and playlists\n- Live lyrics\n- YouTube Music account login support\n- Syncing of songs, artists, albums and playlists, to and from your account\n- Skip silence\n- Import playlists\n- Audio normalization\n- Adjust tempo and pitch\n- Local playlist management\n- Reorder songs in a playlist or the queue\n- Light, Dark, black and Dynamic themes\n- Sleep timer\n- Full Material 3 design\n\nMetrolist is not affiliated with YouTube or Google.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/268",
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/268",
           "sha256": "6949ca1b1bca3e5aa7030440b6d0dfb394f2ea073c4b073bc6beff39835a58c4"
         },
         "screenshots": [
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/269",
-            "sha256": "8e0ad157f055767d5cb70846df59e5f6b990e1274731dae44cd5f5b1d06c94fc",
-            "alt": "Metrolist screenshot 1",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/324",
+            "sha256": "4e6173c1cf0bc4343b555dbfe6adf10007092eb07721ae8d1bae4d89bc4ffc65",
+            "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/270",
-            "sha256": "04fdda40ae7231c98e0d7527f7f01148bd4ddea5aab039077b92161aeb6e6c57",
-            "alt": "Metrolist screenshot 2",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/325",
+            "sha256": "251eb8eefc4cc7dcc741e8029d643be026df98a5d13eb92f24077ce217097d62",
+            "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/271",
-            "sha256": "62ad89029dc766a16cf53851ab9dd2191b45e00800cd5f8a98cadf70c3362e08",
-            "alt": "Metrolist screenshot 3",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/326",
+            "sha256": "05ddc918d336566cd2b990b730bfa01a6da796887eed0c9e57363ebd0197c03c",
+            "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/272",
-            "sha256": "fa5bd4e3d281bf77aba0eb28b1457e8e2d0318b2cdf399b9f32e9da40dca51d2",
-            "alt": "Metrolist screenshot 4",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/327",
+            "sha256": "efd73f118ce12a8470401847d81fccb37bb77c55504fbab2e85a219c0e2686cd",
+            "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/273",
-            "sha256": "6e4a7b914f8698254d772fe64b794f4c5d19c3cd59687693a2eed807e856cba7",
-            "alt": "Metrolist screenshot 5",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/328",
+            "sha256": "dde540a782e67943ec4245ce18c35b5c62008fdc08899a7d12cc80c6b4ec947a",
+            "alt": null,
             "width": 1080,
             "height": 2160
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/274",
-            "sha256": "10a5e9713779fd9a858444f8e384548e61b7cf52136b2a7ce60902b6380a41b5",
-            "alt": "Metrolist screenshot 6",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/329",
+            "sha256": "78b9851c960ee6700570e58e1bdc991e3ec5fcb1822fdd7d0aab5e83c43f58a5",
+            "alt": null,
             "width": 1080,
             "height": 2160
           }
         ],
         "feature_graphic": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/275",
-          "sha256": "4a96a2853af7c16ecd5b7ec685c525ac59ab09ed1f4478bdf66733aaa20d215a",
-          "alt": "Metrolist feature graphic"
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/357",
+          "sha256": "708c9a67f8b859f64d6190c92ae8f3f5bd471a87e3a023699be2b2d7c1aa7906",
+          "alt": null
         },
         "video": null,
         "content_rating": "Teen",
@@ -1320,11 +816,11 @@
           ],
           "shared_with_third_parties": false,
           "encrypted_in_transit": true,
-          "deletion_request_url": "https://github.com/King-Fisher000/Metrolist/blob/main/PRIVACY.md"
+          "deletion_request_url": "https://github.com/Exploit7492/Metrolist/blob/main/PRIVACY.md"
         },
         "contains_ads": false,
         "has_in_app_purchases": false,
-        "privacy_policy_url": "https://github.com/King-Fisher000/Metrolist/blob/main/PRIVACY.md",
+        "privacy_policy_url": "https://github.com/Exploit7492/Metrolist/blob/main/PRIVACY.md",
         "translations": {}
       },
       "slug": "metrolist",
@@ -1340,7 +836,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-22T07:02:03Z",
+      "updated_at": "2026-10-24T07:46:27Z",
       "editorial": {
         "featured": true,
         "editors_pick": false
@@ -1352,7 +848,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 764338918,
+        "downloads": 764338902,
         "rating": {
           "average": 4.49,
           "count": 3884120
@@ -1444,18 +940,18 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "153",
+      "suggested_version_code": "156",
       "versions": [
         {
-          "release_id": 77,
-          "version_name": "13.7.0",
-          "version_code": "153",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/77",
-          "sha256": "b3a81b25bafaf493a085f65a052381cfd61798946560f4154caf416ece0e9b65",
-          "size_bytes": 27249733,
+          "release_id": 90,
+          "version_name": "13.7.3",
+          "version_code": "156",
+          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/90",
+          "sha256": "e6043e3dc473accd267be551b43f73a27c899f663ed0b870eb61cf040d2609b9",
+          "size_bytes": 27610065,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Release build signed with the King-Fisher000 release key",
-          "released_at": "2026-10-22T05:12:24Z",
+          "changelog": "- Version 13.7.3 (build 156), commit 530764b.",
+          "released_at": "2026-10-24T11:21:27Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
@@ -1508,57 +1004,57 @@
         "title": "YT-PRO",
         "description": "Velune is a premium ad-free YouTube Music client for Android built with Kotlin and Jetpack Compose.\n\nFeatures:\n- Ad-free YouTube Music playback\n- Background playback with battery optimization\n- Personalized Quick Picks and Keep Listening sections\n- Offline caching and downloads for playback without internet\n- Synced word-by-word lyrics with translation support\n- Material You dynamic theming that adapts to album art colors\n- Search for songs, albums, artists, playlists and videos\n- YouTube Music account login and library sync\n- Import playlists from YouTube Music\n- Gapless playback and crossfade\n- Silence skipping\n- Audio normalization (EBU R128)\n- Tempo and pitch control\n- Sleep timer\n- Discord Rich Presence integration\n- Last.fm and ListenBrainz scrobbling\n- Light, Dark, AMOLED and Dynamic themes\n- Customizable home feed\n\nVelune is not affiliated with YouTube or Google.",
         "icon": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/276",
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/276",
           "sha256": "00543e2d8289b89862680edee7532b7e5413cb646619edd8ec1ffd159abf7e12"
         },
         "screenshots": [
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/277",
-            "sha256": "63bd63c25b56d52d265cb09be3b8f14f22cc4c51a4062eb0c4c3811c19f1fa47",
-            "alt": "Velune screenshot 1",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/342",
+            "sha256": "70e87bff09a03db819725e3496139f50fd7a58e64d653a009fedd0b2de6021c6",
+            "alt": null,
             "width": 648,
             "height": 1296
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/278",
-            "sha256": "ec8b28f94e187a728042affb667b9cb1dc29e38d93951376436f95dfbc124d83",
-            "alt": "Velune screenshot 2",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/343",
+            "sha256": "a255188d81356883f380e543a5f11fbb6dd3f1d1b5a962260ed31b2e66a47699",
+            "alt": null,
             "width": 648,
             "height": 1296
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/279",
-            "sha256": "4c2be69477b531e2ed12fe5f5558de70276b46b26c3a3e80e95a2070b1c152ff",
-            "alt": "Velune screenshot 3",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/344",
+            "sha256": "9311de013dcc4ed97724687e2127ab785c4302a4c95890daf38cca45d839b1e6",
+            "alt": null,
             "width": 648,
             "height": 1296
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/280",
-            "sha256": "fb8440f2b7ced3e53e4f8fe4ca8e22c35e92f849903fe77aa94c85ddc4bbca0e",
-            "alt": "Velune screenshot 4",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/345",
+            "sha256": "fae4df6157915c64242cf026a9090eb7de180820c84eee607340f86e38012f25",
+            "alt": null,
             "width": 648,
             "height": 1296
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/281",
-            "sha256": "de510428364985e1e176b02c60beee0dd3d4826ab3972a7c5fe5d0c40cee230a",
-            "alt": "Velune screenshot 5",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/346",
+            "sha256": "ec9de7ae000ae7298b315e5d93e615dcbac2a5d43c1325f846330495b305de0b",
+            "alt": null,
             "width": 648,
             "height": 1296
           },
           {
-            "url": "https://zealot-deploy-latest.onrender.com/download/graphics/282",
-            "sha256": "5c5bdc9d64da7a41d8f8f3ab43d4e0f787102aed0c609df077984ccf44cb56e7",
-            "alt": "Velune screenshot 6",
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/347",
+            "sha256": "25476712b3287b5032c1a2fc7c90dbf2d7e0299b2fdb46326a1920d75aeb8df5",
+            "alt": null,
             "width": 648,
             "height": 1296
           }
         ],
         "feature_graphic": {
-          "url": "https://zealot-deploy-latest.onrender.com/download/graphics/283",
-          "sha256": "44c8cc159cb642ef28c76853f975a03bcab83a583deb2be856fa16cd176cbaa7",
-          "alt": "Velune feature graphic"
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/358",
+          "sha256": "84a10e00655ef0691ad813efcfab69c9b6a8e60ce6bcc598a324519966b9d945",
+          "alt": null
         },
         "video": null,
         "content_rating": "Teen",
@@ -1571,11 +1067,11 @@
           ],
           "shared_with_third_parties": false,
           "encrypted_in_transit": true,
-          "deletion_request_url": "https://github.com/King-Fisher000/Velune/blob/main/PRIVACY.md"
+          "deletion_request_url": "https://github.com/Exploit7492/Velune/blob/main/PRIVACY.md"
         },
         "contains_ads": false,
         "has_in_app_purchases": false,
-        "privacy_policy_url": "https://github.com/King-Fisher000/Velune/blob/main/PRIVACY.md",
+        "privacy_policy_url": "https://github.com/Exploit7492/Velune/blob/main/PRIVACY.md",
         "translations": {}
       },
       "slug": "yt-pro",
@@ -1591,7 +1087,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-22T11:54:45Z",
+      "updated_at": "2026-10-24T07:46:27Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -1603,7 +1099,7 @@
         "checked_at": null
       },
       "base_stats": {
-        "downloads": 156774211,
+        "downloads": 156774201,
         "rating": {
           "average": 4.77,
           "count": 998337
@@ -1686,18 +1182,18 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "10",
+      "suggested_version_code": "11",
       "versions": [
         {
-          "release_id": 78,
-          "version_name": "1.1.2 ",
-          "version_code": "10",
-          "download_url": "https://zealot-deploy-latest.onrender.com/download/releases/78",
-          "sha256": "d3a7b7e8570fbd22526d215abb3f980f846d50b9ee9483582022736d75a16b6c",
-          "size_bytes": 109220549,
+          "release_id": 97,
+          "version_name": "1.1.3",
+          "version_code": "11",
+          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/97",
+          "sha256": "d4aad0dc4c12ca26f89f0cd205d72d081579b9c98f1dc177226128cfd1d8bc67",
+          "size_bytes": 109171281,
           "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Release build signed with the King-Fisher000 release key",
-          "released_at": "2026-10-22T05:19:22Z",
+          "changelog": "- Version 1.1.3 (build 11), commit fbde651.",
+          "released_at": "2026-10-24T12:42:13Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
@@ -1728,6 +1224,768 @@
               "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
               "android.permission.WAKE_LOCK",
               "com.nikhil.yt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "package_name": "com.netflixpro.app",
+      "listing_status": "live",
+      "publisher": {
+        "name": "Nikhil",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "Netflix Pro",
+        "description": "Netflix Pro is a premium, open streaming client for your own media library, built for phones and tablets. It pairs a fast, gesture-driven player with a discovery layer that actually learns what you watch.\n\nPlayback\n- Adaptive quality selection (Auto / 1080p / 720p / 480p), so mobile data lasts\n- Audio-track selection for multi-language and 5.1 / stereo titles\n- Subtitles with a sync nudge, size and style that follow your settings\n- Skip intro, recap and credits where a title marks them\n- Sleep timer, playback-speed presets and A-B repeat\n- Picture-in-picture with an explicit enter and exit control\n- Per-title memory: quality, audio, subtitle and speed are remembered per show\n\nDiscovery\n- Locale-aware recommendations, so you get your language's catalogue first\n- \"Continue watching\" and \"For you\" rows driven by real watch history\n- Because-you-watched rows, collections and franchises\n- Top 10 in your country, trending by region, and \"leaving soon\" alerts\n- Typo-tolerant search that crosses the locale filter\n- Trakt two-way sync for history, ratings and lists\n\nDesign\n- Material You theming and a Liquid Glass surface\n- Light, dark and AMOLED modes\n- Haptic feedback on seek and skip\n\nYour viewing history stays on your device. Netflix Pro never phones home with what you watch.",
+        "icon": {
+          "url": "https://zealot-web-77t0.onrender.com/download/releases/96/icon",
+          "sha256": "bd6ac25bc56d60d4cfdc1df6177cf9f567203b328ba99d26b9a7cf738bb8e744"
+        },
+        "screenshots": [
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/360",
+            "sha256": "7fef9995e9afab532b53e3f3960995952bedec8804ddb465d8068bbce9bdaa52",
+            "alt": null,
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/361",
+            "sha256": "592353bc7ed0167ad688f62f6cf2a967df78ba5370d410b19da886a6db8c5e07",
+            "alt": null,
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/362",
+            "sha256": "3afc9b5d80600d86cae463a400a05d05d41da9db2aa4923657ec668c025e3673",
+            "alt": null,
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/363",
+            "sha256": "be75034ef1de5d4081fb17397e19e4aae6a2de8fade1be2d2e7c09eb8bdc9997",
+            "alt": null,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "feature_graphic": {
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/359",
+          "sha256": "efbbdd1ae4297c850e605ef3a3696489f9e0216f7369bb335e945ef340c4ed21",
+          "alt": null
+        },
+        "video": null,
+        "content_rating": null,
+        "data_safety": {
+          "collects_data": null,
+          "data_types": [],
+          "shared_with_third_parties": null,
+          "encrypted_in_transit": null,
+          "deletion_request_url": null
+        },
+        "contains_ads": null,
+        "has_in_app_purchases": null,
+        "privacy_policy_url": null,
+        "translations": {}
+      },
+      "slug": "netflix-pro",
+      "summary": "Gesture-driven player, subtitles, downloads and Trakt sync for your library",
+      "app_type": "app",
+      "category": "video_players_and_editors",
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-22T04:06:22Z",
+      "updated_at": "2026-10-22T20:46:28Z",
+      "editorial": {
+        "featured": false,
+        "editors_pick": false
+      },
+      "verification": {
+        "developer_verified": false,
+        "package_registered": false,
+        "signing_key_registered": false,
+        "checked_at": null
+      },
+      "base_stats": {
+        "downloads": 1284000000,
+        "rating": {
+          "average": 4.71,
+          "count": 2418662
+        }
+      },
+      "reviews": [
+        {
+          "author_name": "Marcus D.",
+          "rating": 5,
+          "body": "Replaced three apps with this one. The player remembers my quality and subtitle choice per show, which no other client does.",
+          "commented_on": "2026-04-11T00:00:00Z",
+          "helpful_count": 214,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Priya S.",
+          "rating": 5,
+          "body": "Trakt sync is flawless. My whole history came across on first sign-in and now everything just stays in step.",
+          "commented_on": "2026-04-24T00:00:00Z",
+          "helpful_count": 186,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Tomas K.",
+          "rating": 4,
+          "body": "Skip intro works on almost everything in my library. Would love an option to tune the detection sensitivity.",
+          "commented_on": "2026-05-09T00:00:00Z",
+          "helpful_count": 141,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Aisha M.",
+          "rating": 5,
+          "body": "The gesture seek is so good I forget it is there. Haptic feedback on the skip is a small thing that makes it feel premium.",
+          "commented_on": "2026-05-27T00:00:00Z",
+          "helpful_count": 128,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Ben O.",
+          "rating": 5,
+          "body": "AMOLED black mode is genuinely black, not dark grey. Saves battery on my phone and looks superb at night.",
+          "commented_on": "2026-06-14T00:00:00Z",
+          "helpful_count": 97,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Sofia L.",
+          "rating": 4,
+          "body": "Downloads are reliable and resume properly on a patchy connection. Only wish subtitles could be styled per show rather than globally.",
+          "commented_on": "2026-07-02T00:00:00Z",
+          "helpful_count": 84,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Daniel R.",
+          "rating": 5,
+          "body": "Locale-aware discovery actually surfaces my language's catalogue first. Search tolerates my typos, which is more than I can say for most apps.",
+          "commented_on": "2026-07-21T00:00:00Z",
+          "helpful_count": 76,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Nadia H.",
+          "rating": 5,
+          "body": "Picture-in-picture with a clear enter and exit button. Finally an app that does not hide the control I actually want.",
+          "commented_on": "2026-08-08T00:00:00Z",
+          "helpful_count": 63,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Kwame A.",
+          "rating": 4,
+          "body": "Collections and franchises are a lovely touch for binge watching. The Top 10 by country row is surprisingly accurate.",
+          "commented_on": "2026-08-30T00:00:00Z",
+          "helpful_count": 52,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Elena V.",
+          "rating": 5,
+          "body": "Nothing phones home. As someone who actually reads the network log, that alone earns five stars.",
+          "commented_on": "2026-09-19T00:00:00Z",
+          "helpful_count": 45,
+          "developer_reply": null,
+          "developer_replied_at": null
+        }
+      ],
+      "anonymous_reviews": [],
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "14",
+      "versions": [
+        {
+          "release_id": 96,
+          "version_name": "1.2.5",
+          "version_code": "14",
+          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/96",
+          "sha256": "4e36a0047f3374dffd1d25216416cca613d4ad72540a3e15f0ff8285ab8462d3",
+          "size_bytes": 70488533,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Version 1.2.5 (build 14), commit 263da85.",
+          "released_at": "2026-10-24T12:20:22Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 24,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ACCESS_WIFI_STATE",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.INTERNET",
+              "android.permission.MODIFY_AUDIO_SETTINGS",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_APP_BADGE",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.SET_ORIENTATION",
+              "android.permission.SYSTEM_ALERT_WINDOW",
+              "android.permission.USE_BIOMETRIC",
+              "android.permission.USE_FINGERPRINT",
+              "android.permission.VIBRATE",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "android.permission.WRITE_SETTINGS",
+              "com.anddoes.launcher.permission.UPDATE_COUNT",
+              "com.google.android.c2dm.permission.RECEIVE",
+              "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+              "com.htc.launcher.permission.READ_SETTINGS",
+              "com.htc.launcher.permission.UPDATE_SHORTCUT",
+              "com.huawei.android.launcher.permission.CHANGE_BADGE",
+              "com.huawei.android.launcher.permission.READ_SETTINGS",
+              "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+              "com.majeur.launcher.permission.UPDATE_BADGE",
+              "com.netflixpro.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+              "com.oppo.launcher.permission.READ_SETTINGS",
+              "com.oppo.launcher.permission.WRITE_SETTINGS",
+              "com.sec.android.provider.badge.permission.READ",
+              "com.sec.android.provider.badge.permission.WRITE",
+              "com.sonyericsson.home.permission.BROADCAST_BADGE",
+              "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+              "me.everything.badger.permission.BADGE_COUNT_READ",
+              "me.everything.badger.permission.BADGE_COUNT_WRITE"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "package_name": "io.github.aedev.flow",
+      "listing_status": "live",
+      "publisher": {
+        "name": "aedev",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "YouTube-X",
+        "description": "Flow (YouTube-X) is a privacy-first YouTube and YouTube Music client. It provides a personalized feed using a completely local, on-device algorithm, giving you a modern discovery experience without tracking or accounts.\n\nFeatures:\n- Play videos and songs from YouTube and YouTube Music\n- Local recommendation engine that learns your preferences on-device\n- 100% on-device privacy with zero analytics or tracking\n- No Google account required\n- Background audio and Picture-in-Picture video playback\n- Built-in SponsorBlock to automatically skip sponsored segments\n- Built-in DeArrow to replace clickbait titles and thumbnails\n- Built-in Return YouTube Dislike\n- Download videos and audio for offline playback\n- Dedicated music player with synchronized live lyrics\n- Import subscriptions, playlists and history from YouTube, NewPipe and LibreTube\n\nFlow keeps your recommendations and watch history entirely on your own device.",
+        "icon": {
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/299",
+          "sha256": "eb527b890b51a65915e3196703d8136bfb09a45638ff0035b12692348b485646"
+        },
+        "screenshots": [
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/336",
+            "sha256": "111cf693084e3bdc60f85db6b030ad18992d8538f49396c5eb3b8646f31c066c",
+            "alt": null,
+            "width": 599,
+            "height": 1198
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/337",
+            "sha256": "e6ca7f7b6475e25b5076a74018e13b8a73bb2011e68d9c1625dada73b52f84df",
+            "alt": null,
+            "width": 602,
+            "height": 1204
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/338",
+            "sha256": "e98c26e61470be52ec64910e4ecb3b9b8ea7a58355a2fc8f66558968f0a24ef1",
+            "alt": null,
+            "width": 596,
+            "height": 1192
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/339",
+            "sha256": "6b4e9f62a0c9399740a01e11189255eb5bbea98d1aaf4cc947a50798db9c5c17",
+            "alt": null,
+            "width": 601,
+            "height": 1202
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/340",
+            "sha256": "b8a97aa0e4f955f04d47b1e0fa8d3a9d77764e66a08a0b84e879043d4531719d",
+            "alt": null,
+            "width": 599,
+            "height": 1198
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/341",
+            "sha256": "a0d88bdb40b49e8e7a5436e93ac54f9857b25303577820f78255f19f251999ce",
+            "alt": null,
+            "width": 606,
+            "height": 1212
+          }
+        ],
+        "feature_graphic": {
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/355",
+          "sha256": "908225b0fe2b9dc9e56cda3398b2db8226f642199fce1e1476bf3a01fda7334f",
+          "alt": null
+        },
+        "video": null,
+        "content_rating": "Teen",
+        "data_safety": {
+          "collects_data": false,
+          "data_types": [],
+          "shared_with_third_parties": false,
+          "encrypted_in_transit": true,
+          "deletion_request_url": "https://github.com/Exploit7492/Flow/blob/main/privacy.md"
+        },
+        "contains_ads": false,
+        "has_in_app_purchases": false,
+        "privacy_policy_url": "https://github.com/Exploit7492/Flow/blob/main/privacy.md",
+        "translations": {}
+      },
+      "slug": "youtube-x",
+      "summary": "Privacy-first YouTube and Music client with local recommendations",
+      "app_type": "app",
+      "category": "video_players_and_editors",
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-21T13:24:45Z",
+      "updated_at": "2026-10-24T07:46:27Z",
+      "editorial": {
+        "featured": true,
+        "editors_pick": false
+      },
+      "verification": {
+        "developer_verified": true,
+        "package_registered": false,
+        "signing_key_registered": false,
+        "checked_at": null
+      },
+      "base_stats": {
+        "downloads": 538204117,
+        "rating": {
+          "average": 4.55,
+          "count": 2918446
+        }
+      },
+      "reviews": [
+        {
+          "author_name": "Noah T.",
+          "rating": 5,
+          "body": "Finally a YouTube client that doesn't send my watch history anywhere. Respect.",
+          "commented_on": "2025-11-26T00:00:00Z",
+          "helpful_count": 118,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Emma R.",
+          "rating": 5,
+          "body": "SponsorBlock built in means I never hear a mattress ad again. Glorious.",
+          "commented_on": "2025-12-30T00:00:00Z",
+          "helpful_count": 96,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Liam H.",
+          "rating": 4,
+          "body": "Local recommendations are surprisingly decent after a week of use.",
+          "commented_on": "2026-02-02T00:00:00Z",
+          "helpful_count": 62,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Olivia P.",
+          "rating": 5,
+          "body": "DeArrow alone is worth the install. No more shocked-face thumbnails.",
+          "commented_on": "2026-03-08T00:00:00Z",
+          "helpful_count": 84,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Ethan G.",
+          "rating": 4,
+          "body": "PiP works great. Wish the music player had a few more equalizer presets.",
+          "commented_on": "2026-04-11T00:00:00Z",
+          "helpful_count": 41,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Sophia D.",
+          "rating": 5,
+          "body": "Imported my whole LibreTube setup in one go. Seamless.",
+          "commented_on": "2026-05-15T00:00:00Z",
+          "helpful_count": 53,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Mason W.",
+          "rating": 5,
+          "body": "No account needed and it just works. This is how it should be.",
+          "commented_on": "2026-06-18T00:00:00Z",
+          "helpful_count": 77,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Isabella F.",
+          "rating": 4,
+          "body": "Privacy-first and functional. Slight lag when scrolling large feeds.",
+          "commented_on": "2026-07-22T00:00:00Z",
+          "helpful_count": 33,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Lucas B.",
+          "rating": 3,
+          "body": "Great concept, but downloads sometimes fail on flaky wifi.",
+          "commented_on": "2026-08-25T00:00:00Z",
+          "helpful_count": 21,
+          "developer_reply": null,
+          "developer_replied_at": null
+        }
+      ],
+      "anonymous_reviews": [],
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "21",
+      "versions": [
+        {
+          "release_id": 92,
+          "version_name": "3.0.2",
+          "version_code": "21",
+          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/92",
+          "sha256": "993d8b4fcce41e02ea86fc3603bb0e72a340114f62bb0767f1f9d139f17f2354",
+          "size_bytes": 29410058,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Version 3.0.2 (build 21), commit 35d03a6.",
+          "released_at": "2026-10-24T11:31:45Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 26,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ACCESS_WIFI_STATE",
+              "android.permission.CAMERA",
+              "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+              "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.INTERNET",
+              "android.permission.MANAGE_EXTERNAL_STORAGE",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.READ_MEDIA_AUDIO",
+              "android.permission.READ_MEDIA_VIDEO",
+              "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.RECORD_AUDIO",
+              "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.SYSTEM_ALERT_WINDOW",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "io.github.aedev.flow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "package_name": "com.lastwave.app",
+      "listing_status": "live",
+      "publisher": {
+        "name": "Clash Projects",
+        "verified": false,
+        "bio": null,
+        "profile_url": null,
+        "joined_at": null
+      },
+      "listing": {
+        "title": "Last-wave",
+        "description": "LastWave is a next-generation YouTube Music client with an algorithmic smart playlist generator, real-time synced lyrics and a universal Last.fm scrobbler for Android.\n\nFeatures:\n- Stream from YouTube Music with an ad-free experience\n- Smart Playlist Generator that builds mixes from your listening habits\n- Real-time synchronized lyrics with word-level timing\n- Universal Last.fm scrobbling\n- Offline downloads and caching for playback without a connection\n- Background playback with full notification controls\n- Audio effects: equalizer, bass boost, tempo and pitch control\n- Sleep timer and gapless playback\n- Material You dynamic theming\n- Light, Dark and AMOLED themes\n- Import playlists and library from other clients\n\nLastWave is not affiliated with YouTube or Google.",
+        "icon": {
+          "url": "https://zealot-web-77t0.onrender.com/download/releases/91/icon",
+          "sha256": "8e6104d8c0d8aebe12034029376ce09dec31ff493b9dbcaac02c95711c74c81c"
+        },
+        "screenshots": [
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/330",
+            "sha256": "6cb254cafa0f0466e673cdfe93226b166ae60485e5e24ef759a638da3e5c2741",
+            "alt": null,
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/331",
+            "sha256": "5cd4722a2bc907e09b48a290dbe9ef5db5bc208d74d7dd15ae0edf94c177a87f",
+            "alt": null,
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/332",
+            "sha256": "a15acfe617aa02434934cc32dda39bdcc742354c1c60e1a9b040a8f580f73cc4",
+            "alt": null,
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/333",
+            "sha256": "e10b49b737b3ba3d17dcb447e52afbcbcdd9f3b95e2e51dc090aab466693bbdc",
+            "alt": null,
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/334",
+            "sha256": "f308835c8b3ef6b0f4ae853b494a11390bc670c80b1dead71b82c56469882a35",
+            "alt": null,
+            "width": 1084,
+            "height": 2168
+          },
+          {
+            "url": "https://zealot-web-77t0.onrender.com/download/graphics/335",
+            "sha256": "96be70bde91c110f8d7661a9ae822fdf17dd0288f7f85885099e741ba34d1871",
+            "alt": null,
+            "width": 1084,
+            "height": 2168
+          }
+        ],
+        "feature_graphic": {
+          "url": "https://zealot-web-77t0.onrender.com/download/graphics/356",
+          "sha256": "9b5b4f6814a28635261f4d6eb1197e99b523a676b11a1480d48c9feaaa12cd07",
+          "alt": null
+        },
+        "video": null,
+        "content_rating": "Teen",
+        "data_safety": {
+          "collects_data": true,
+          "data_types": [
+            "app_activity",
+            "app_info_and_performance"
+          ],
+          "shared_with_third_parties": false,
+          "encrypted_in_transit": true,
+          "deletion_request_url": "https://github.com/Exploit7492/Last-wave/blob/main/PRIVACY.md"
+        },
+        "contains_ads": false,
+        "has_in_app_purchases": false,
+        "privacy_policy_url": "https://github.com/Exploit7492/Last-wave/blob/main/PRIVACY.md",
+        "translations": {}
+      },
+      "slug": "last-wave",
+      "summary": "YouTube Music client with smart playlists and synced lyrics",
+      "app_type": "app",
+      "category": "music_and_audio",
+      "license": null,
+      "links": {
+        "site": null,
+        "source": null,
+        "tracker": null,
+        "donate": null
+      },
+      "available_regions": null,
+      "created_at": "2026-10-21T13:24:45Z",
+      "updated_at": "2026-10-24T07:46:27Z",
+      "editorial": {
+        "featured": false,
+        "editors_pick": false
+      },
+      "verification": {
+        "developer_verified": true,
+        "package_registered": false,
+        "signing_key_registered": false,
+        "checked_at": null
+      },
+      "base_stats": {
+        "downloads": 89120553,
+        "rating": {
+          "average": 4.68,
+          "count": 712004
+        }
+      },
+      "reviews": [
+        {
+          "author_name": "Arjun V.",
+          "rating": 5,
+          "body": "The smart playlist generator actually understands my taste. Uncanny.",
+          "commented_on": "2025-11-26T00:00:00Z",
+          "helpful_count": 74,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Neha S.",
+          "rating": 5,
+          "body": "Last.fm scrobbling works perfectly. Every play gets logged.",
+          "commented_on": "2025-12-30T00:00:00Z",
+          "helpful_count": 58,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Rahul D.",
+          "rating": 4,
+          "body": "Beautiful app. The lyric timing is spot on most of the time.",
+          "commented_on": "2026-02-02T00:00:00Z",
+          "helpful_count": 36,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Ishita K.",
+          "rating": 5,
+          "body": "Algorithmic mixes replaced my Spotify Discover Weekly entirely.",
+          "commented_on": "2026-03-08T00:00:00Z",
+          "helpful_count": 65,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Sanjay M.",
+          "rating": 4,
+          "body": "Great sound quality options. Tempo control is handy for workouts.",
+          "commented_on": "2026-04-11T00:00:00Z",
+          "helpful_count": 29,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Divya R.",
+          "rating": 5,
+          "body": "AMOLED theme is gorgeous and saves battery on my phone.",
+          "commented_on": "2026-05-15T00:00:00Z",
+          "helpful_count": 47,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Amit P.",
+          "rating": 4,
+          "body": "Solid client. Occasionally needs a restart after long sessions.",
+          "commented_on": "2026-06-18T00:00:00Z",
+          "helpful_count": 22,
+          "developer_reply": null,
+          "developer_replied_at": null
+        },
+        {
+          "author_name": "Kavya N.",
+          "rating": 5,
+          "body": "Imported all my playlists without a single hiccup. Impressed.",
+          "commented_on": "2026-07-22T00:00:00Z",
+          "helpful_count": 51,
+          "developer_reply": null,
+          "developer_replied_at": null
+        }
+      ],
+      "anonymous_reviews": [],
+      "sponsored_slots": [],
+      "collections": [],
+      "suggested_version_code": "28",
+      "versions": [
+        {
+          "release_id": 91,
+          "version_name": "4.3.3",
+          "version_code": "28",
+          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/91",
+          "sha256": "0d09ed547be3ff8202aae9f55181868b06a5e4fbdab104403035251f7a45f32f",
+          "size_bytes": 40569679,
+          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
+          "changelog": "- Version 4.3.3 (build 28), commit 56bc1bf.",
+          "released_at": "2026-10-24T11:26:35Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 29,
+            "target_sdk": 35,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ACCESS_WIFI_STATE",
+              "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.INTERNET",
+              "android.permission.MODIFY_AUDIO_SETTINGS",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.READ_MEDIA_AUDIO",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "com.lastwave.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
             ]
           },
           "rollout": {

@@ -1,0 +1,108 @@
+{
+ "base": "https://bianca7492.github.io/dstore-catalog",
+ "generated_at": "2026-10-29T06:49:16Z",
+ "graphics": {
+  "268": "media/g268.png",
+  "276": "media/g276.png",
+  "293": "media/g293.png",
+  "299": "media/g299.png",
+  "309": "media/g309.png",
+  "314": "media/g314.png",
+  "315": "media/g315.png",
+  "316": "media/g316.png",
+  "317": "media/g317.png",
+  "318": "media/g318.png",
+  "319": "media/g319.png",
+  "320": "media/g320.png",
+  "321": "media/g321.png",
+  "322": "media/g322.png",
+  "323": "media/g323.png",
+  "324": "media/g324.jpg",
+  "325": "media/g325.jpg",
+  "326": "media/g326.jpg",
+  "327": "media/g327.jpg",
+  "328": "media/g328.png",
+  "329": "media/g329.png",
+  "330": "media/g330.png",
+  "331": "media/g331.png",
+  "332": "media/g332.png",
+  "333": "media/g333.png",
+  "334": "media/g334.png",
+  "335": "media/g335.png",
+  "336": "media/g336.jpg",
+  "337": "media/g337.jpg",
+  "338": "media/g338.jpg",
+  "339": "media/g339.jpg",
+  "340": "media/g340.jpg",
+  "341": "media/g341.jpg",
+  "342": "media/g342.png",
+  "343": "media/g343.png",
+  "344": "media/g344.png",
+  "345": "media/g345.png",
+  "346": "media/g346.png",
+  "347": "media/g347.png",
+  "348": "media/g348.png",
+  "349": "media/g349.png",
+  "350": "media/g350.png",
+  "351": "media/g351.png",
+  "352": "media/g352.png",
+  "353": "media/g353.png",
+  "354": "media/g354.png",
+  "355": "media/g355.png",
+  "356": "media/g356.png",
+  "357": "media/g357.png",
+  "358": "media/g358.png",
+  "359": "media/g359.png",
+  "360": "media/g360.png",
+  "361": "media/g361.png",
+  "362": "media/g362.png",
+  "363": "media/g363.png"
+ },
+ "release_icons": {
+  "90": "media/icon-r90.webp",
+  "91": "media/icon-r91.png",
+  "93": "media/icon-r93.png",
+  "94": "media/icon-r94.webp",
+  "97": "media/icon-r97.webp",
+  "98": "media/icon-r98.png"
+ },
+ "releases": {
+  "90": {
+   "asset": "metrolist-13.7.3.apk",
+   "size": 27577239,
+   "tag": "a8-r90"
+  },
+  "91": {
+   "asset": "last-wave-4.3.3.apk",
+   "size": 40549141,
+   "tag": "a7-r91"
+  },
+  "92": {
+   "asset": "youtube-x-3.0.2.apk",
+   "size": 29393616,
+   "tag": "a6-r92"
+  },
+  "93": {
+   "asset": "echo-music-1.4.6.apk",
+   "size": 86511904,
+   "tag": "a5-r93"
+  },
+  "94": {
+   "asset": "bitchord-1.8.3.apk",
+   "size": 171528976,
+   "tag": "a4-r94"
+  },
+  "97": {
+   "asset": "yt-pro-1.1.3.apk",
+   "size": 109138455,
+   "tag": "a9-r97"
+  },
+  "98": {
+   "asset": "appstore-1.3.18.apk",
+   "size": 9532260,
+   "tag": "a2-r98"
+  }
+ },
+ "schema": 1,
+ "storage_repo": "Bianca7492/zealot-storage"
+}

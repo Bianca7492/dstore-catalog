@@ -19,5 +19,8 @@
   },
   "io.github.aedev.flow": {
     "signer": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5"
+  },
+  "com.netflixpro.app": {
+    "signer": "a13184b8bf4721027d0979a8852aec0b481efba02e2e450d2f4a718ead508cdf"
   }
 }

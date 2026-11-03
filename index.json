@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-03T19:06:12Z",
-  "sequence": 2,
-  "expires_at": "2026-11-05T19:06:12Z",
+  "generated_at": "2026-11-03T20:03:30Z",
+  "sequence": 3,
+  "expires_at": "2026-11-05T20:03:30Z",
   "apps": [
     {
       "id": 2,
@@ -1314,7 +1314,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-22T04:06:22Z",
-      "updated_at": "2026-11-03T19:06:11Z",
+      "updated_at": "2026-11-03T20:03:30Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -1427,8 +1427,51 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": 30005,
+      "suggested_version_code": 30006,
       "versions": [
+        {
+          "release_id": 100,
+          "version_name": "3.0.6",
+          "version_code": "30006",
+          "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a10-r100/netflix-pro-3.0.6.apk",
+          "sha256": "6b8bb60eb55a11e6b5744821037e4c00e619e5fe0a9a1f60fb49f8fd4abae3d8",
+          "size_bytes": 21575433,
+          "signing_fingerprint": "a13184b8bf4721027d0979a8852aec0b481efba02e2e450d2f4a718ead508cdf",
+          "changelog": "Release 3.0.6 from 473e372dab7ca0857aa46a13ff826067b91fca97",
+          "released_at": "2026-11-03T20:03:30Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 0,
+            "target_sdk": 37,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+              "android.permission.INTERNET",
+              "android.permission.MODIFY_AUDIO_SETTINGS",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "com.netflixpro.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        },
         {
           "release_id": 99,
           "version_name": "3.0.5",

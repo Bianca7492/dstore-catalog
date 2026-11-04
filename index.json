@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:48:38Z",
-  "sequence": 8,
-  "expires_at": "2026-11-06T08:48:38Z",
+  "generated_at": "2026-11-04T08:50:48Z",
+  "sequence": 9,
+  "expires_at": "2026-11-06T08:50:48Z",
   "apps": [
     {
       "id": 2,
@@ -2025,7 +2025,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-24T07:46:27Z",
+      "updated_at": "2026-11-04T08:50:47Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -2033,7 +2033,7 @@
       "verification": {
         "developer_verified": true,
         "package_registered": false,
-        "signing_key_registered": false,
+        "signing_key_registered": true,
         "checked_at": null
       },
       "base_stats": {
@@ -2120,21 +2120,21 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "28",
+      "suggested_version_code": 28,
       "versions": [
         {
           "release_id": 91,
           "version_name": "4.3.3",
           "version_code": "28",
-          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/91",
-          "sha256": "0d09ed547be3ff8202aae9f55181868b06a5e4fbdab104403035251f7a45f32f",
-          "size_bytes": 40569679,
-          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 4.3.3 (build 28), commit 56bc1bf.",
-          "released_at": "2026-10-24T11:26:35Z",
+          "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a7-r91/last-wave-4.3.3.apk",
+          "sha256": "db9ea6f6bfbbd56df41d243def2222222a48517aceb0c759d9171b1d4f46a12c",
+          "size_bytes": 41874191,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "",
+          "released_at": "2026-11-04T08:50:47Z",
           "status": "available",
           "compatibility": {
-            "min_sdk": 29,
+            "min_sdk": 0,
             "target_sdk": 35,
             "abis": [
               "arm64-v8a",
@@ -2149,6 +2149,7 @@
               "android.permission.ACCESS_WIFI_STATE",
               "android.permission.CHANGE_WIFI_MULTICAST_STATE",
               "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
               "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
               "android.permission.INTERNET",
               "android.permission.MODIFY_AUDIO_SETTINGS",
@@ -2156,8 +2157,6 @@
               "android.permission.READ_EXTERNAL_STORAGE",
               "android.permission.READ_MEDIA_AUDIO",
               "android.permission.RECEIVE_BOOT_COMPLETED",
-              "android.permission.REQUEST_INSTALL_PACKAGES",
-              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
               "android.permission.WAKE_LOCK",
               "android.permission.WRITE_EXTERNAL_STORAGE",
               "com.lastwave.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"

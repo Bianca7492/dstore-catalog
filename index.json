@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:57:21Z",
-  "sequence": 12,
-  "expires_at": "2026-11-06T08:57:21Z",
+  "generated_at": "2026-11-04T08:58:59Z",
+  "sequence": 13,
+  "expires_at": "2026-11-06T08:58:59Z",
   "apps": [
     {
       "id": 2,
@@ -84,7 +84,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-03T10:55:52Z",
-      "updated_at": "2026-10-09T03:50:42Z",
+      "updated_at": "2026-11-04T08:58:58Z",
       "editorial": {
         "featured": true,
         "editors_pick": false
@@ -92,7 +92,7 @@
       "verification": {
         "developer_verified": false,
         "package_registered": false,
-        "signing_key_registered": false,
+        "signing_key_registered": true,
         "checked_at": null
       },
       "base_stats": {
@@ -197,7 +197,7 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "339",
+      "suggested_version_code": 339,
       "versions": [
         {
           "release_id": 98,
@@ -212,6 +212,56 @@
           "status": "available",
           "compatibility": {
             "min_sdk": 26,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ENFORCE_UPDATE_OWNERSHIP",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+              "android.permission.INTERNET",
+              "android.permission.PACKAGE_USAGE_STATS",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.QUERY_ALL_PACKAGES",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.REQUEST_DELETE_PACKAGES",
+              "android.permission.REQUEST_INSTALL_PACKAGES",
+              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "com.rosan.dhizuku.permission.API",
+              "com.vythera.vyxelapps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+              "moe.shizuku.manager.permission.API_V23"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        },
+        {
+          "release_id": 98,
+          "version_name": "1.3.0",
+          "version_code": "101",
+          "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a2-r98/appstore-1.3.18.apk",
+          "sha256": "949f8f7c876adf26c230bdcb7d7a9e6799698be19984b56cf3d41eddfbeda273",
+          "size_bytes": 10258430,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "",
+          "released_at": "2026-11-04T08:58:58Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 0,
             "target_sdk": 36,
             "abis": [
               "arm64-v8a",

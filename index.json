@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:58:59Z",
-  "sequence": 13,
-  "expires_at": "2026-11-06T08:58:59Z",
+  "generated_at": "2026-11-04T09:01:14Z",
+  "sequence": 14,
+  "expires_at": "2026-11-06T09:01:14Z",
   "apps": [
     {
       "id": 2,
@@ -1406,7 +1406,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-22T04:06:22Z",
-      "updated_at": "2026-11-04T08:16:03Z",
+      "updated_at": "2026-11-04T09:01:14Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -1570,11 +1570,11 @@
           "version_name": "3.0.5",
           "version_code": "30005",
           "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a10-r99/netflix-pro-3.0.5.apk",
-          "sha256": "feb0c8626f2874d1ffd771d5cd54e464fb1470fb07696209909de6e136f15f19",
-          "size_bytes": 21575437,
-          "signing_fingerprint": "a13184b8bf4721027d0979a8852aec0b481efba02e2e450d2f4a718ead508cdf",
-          "changelog": "Release 3.0.5 from 56b26087aab5ef3becadbad3e4ab432781d06403",
-          "released_at": "2026-11-03T19:06:11Z",
+          "sha256": "44ec3b1d0bc16265915401c6a2a69d97cea9ac43655f6b68093da2c53caa7027",
+          "size_bytes": 22400946,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "",
+          "released_at": "2026-11-04T09:01:14Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 0,
@@ -1590,6 +1590,7 @@
             "permissions": [
               "android.permission.ACCESS_NETWORK_STATE",
               "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
               "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
               "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
               "android.permission.INTERNET",

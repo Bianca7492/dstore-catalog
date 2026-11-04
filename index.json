@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:16:04Z",
-  "sequence": 6,
-  "expires_at": "2026-11-06T08:16:04Z",
+  "generated_at": "2026-11-04T08:46:42Z",
+  "sequence": 7,
+  "expires_at": "2026-11-06T08:46:42Z",
   "apps": [
     {
       "id": 2,
@@ -1087,7 +1087,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-24T07:46:27Z",
+      "updated_at": "2026-11-04T08:46:42Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -1095,7 +1095,7 @@
       "verification": {
         "developer_verified": true,
         "package_registered": false,
-        "signing_key_registered": false,
+        "signing_key_registered": true,
         "checked_at": null
       },
       "base_stats": {
@@ -1182,8 +1182,54 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "11",
+      "suggested_version_code": 12,
       "versions": [
+        {
+          "release_id": 97,
+          "version_name": "1.1.4",
+          "version_code": "12",
+          "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a9-r97/yt-pro-1.1.3.apk",
+          "sha256": "c402054dad411b6f6016a66d0fb7c15696666d60a1d98500a06177efe5404cc5",
+          "size_bytes": 110560358,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "",
+          "released_at": "2026-11-04T08:46:42Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 0,
+            "target_sdk": 36,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.ACCESS_WIFI_STATE",
+              "android.permission.BLUETOOTH_CONNECT",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+              "android.permission.INTERNET",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.READ_MEDIA_AUDIO",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.RECORD_AUDIO",
+              "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+              "android.permission.WAKE_LOCK",
+              "com.nikhil.yt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        },
         {
           "release_id": 97,
           "version_name": "1.1.3",

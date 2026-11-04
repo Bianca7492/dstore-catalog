@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:50:48Z",
-  "sequence": 9,
-  "expires_at": "2026-11-06T08:50:48Z",
+  "generated_at": "2026-11-04T08:52:45Z",
+  "sequence": 10,
+  "expires_at": "2026-11-06T08:52:45Z",
   "apps": [
     {
       "id": 2,
@@ -1765,7 +1765,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-24T07:46:27Z",
+      "updated_at": "2026-11-04T08:52:45Z",
       "editorial": {
         "featured": true,
         "editors_pick": false
@@ -1773,7 +1773,7 @@
       "verification": {
         "developer_verified": true,
         "package_registered": false,
-        "signing_key_registered": false,
+        "signing_key_registered": true,
         "checked_at": null
       },
       "base_stats": {
@@ -1869,21 +1869,21 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "21",
+      "suggested_version_code": 21,
       "versions": [
         {
           "release_id": 92,
           "version_name": "3.0.2",
           "version_code": "21",
-          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/92",
-          "sha256": "993d8b4fcce41e02ea86fc3603bb0e72a340114f62bb0767f1f9d139f17f2354",
-          "size_bytes": 29410058,
-          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 3.0.2 (build 21), commit 35d03a6.",
-          "released_at": "2026-10-24T11:31:45Z",
+          "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a6-r92/youtube-x-3.0.2.apk",
+          "sha256": "5e7638a9fbc55ccc43c2631138f51889a67734667295cd876a6a9e1e220da322",
+          "size_bytes": 30815317,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "",
+          "released_at": "2026-11-04T08:52:45Z",
           "status": "available",
           "compatibility": {
-            "min_sdk": 26,
+            "min_sdk": 0,
             "target_sdk": 36,
             "abis": [
               "arm64-v8a",
@@ -1912,9 +1912,7 @@
               "android.permission.RECEIVE_BOOT_COMPLETED",
               "android.permission.RECORD_AUDIO",
               "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-              "android.permission.REQUEST_INSTALL_PACKAGES",
               "android.permission.SYSTEM_ALERT_WINDOW",
-              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
               "android.permission.WAKE_LOCK",
               "android.permission.WRITE_EXTERNAL_STORAGE",
               "io.github.aedev.flow.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"

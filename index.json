@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:46:42Z",
-  "sequence": 7,
-  "expires_at": "2026-11-06T08:46:42Z",
+  "generated_at": "2026-11-04T08:48:38Z",
+  "sequence": 8,
+  "expires_at": "2026-11-06T08:48:38Z",
   "apps": [
     {
       "id": 2,
@@ -836,7 +836,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-24T07:46:27Z",
+      "updated_at": "2026-11-04T08:48:37Z",
       "editorial": {
         "featured": true,
         "editors_pick": false
@@ -844,7 +844,7 @@
       "verification": {
         "developer_verified": true,
         "package_registered": false,
-        "signing_key_registered": false,
+        "signing_key_registered": true,
         "checked_at": null
       },
       "base_stats": {
@@ -940,21 +940,21 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "156",
+      "suggested_version_code": 156,
       "versions": [
         {
           "release_id": 90,
           "version_name": "13.7.3",
           "version_code": "156",
-          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/90",
-          "sha256": "e6043e3dc473accd267be551b43f73a27c899f663ed0b870eb61cf040d2609b9",
-          "size_bytes": 27610065,
-          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 13.7.3 (build 156), commit 530764b.",
-          "released_at": "2026-10-24T11:21:27Z",
+          "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a8-r90/metrolist-13.7.3.apk",
+          "sha256": "8171174d0521fcade00002d668a65bb2a6114e2baec3b1cfa3882f528a0d9616",
+          "size_bytes": 28375291,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "",
+          "released_at": "2026-11-04T08:48:37Z",
           "status": "available",
           "compatibility": {
-            "min_sdk": 26,
+            "min_sdk": 0,
             "target_sdk": 36,
             "abis": [
               "arm64-v8a",
@@ -974,9 +974,7 @@
               "android.permission.POST_NOTIFICATIONS",
               "android.permission.RECEIVE_BOOT_COMPLETED",
               "android.permission.RECORD_AUDIO",
-              "android.permission.REQUEST_INSTALL_PACKAGES",
               "android.permission.SCHEDULE_EXACT_ALARM",
-              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
               "android.permission.WAKE_LOCK",
               "com.metrolist.music.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
             ]

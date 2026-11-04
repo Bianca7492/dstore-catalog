@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:09:32Z",
-  "sequence": 5,
-  "expires_at": "2026-11-06T08:09:32Z",
+  "generated_at": "2026-11-04T08:16:04Z",
+  "sequence": 6,
+  "expires_at": "2026-11-06T08:16:04Z",
   "apps": [
     {
       "id": 2,
@@ -1314,7 +1314,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-22T04:06:22Z",
-      "updated_at": "2026-11-04T08:09:32Z",
+      "updated_at": "2026-11-04T08:16:03Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -1521,11 +1521,11 @@
           "version_name": "3.0.2",
           "version_code": "30002",
           "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a10-r101/netflix-pro-3.0.2.apk",
-          "sha256": "a627187045f5d01a911609c1fcc0ce91fe9a980877ac84180a9a02462e779689",
-          "size_bytes": 21574169,
-          "signing_fingerprint": "a13184b8bf4721027d0979a8852aec0b481efba02e2e450d2f4a718ead508cdf",
-          "changelog": "Re-publish 3.0.2 under a fresh release id (97 was shared with yt-pro).",
-          "released_at": "2026-11-04T06:06:17Z",
+          "sha256": "11b738e57d9929779bfc474fc2715a8fe4903eb797edb690c25a57b6b6d8f06c",
+          "size_bytes": 22400946,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "",
+          "released_at": "2026-11-04T08:16:03Z",
           "status": "available",
           "compatibility": {
             "min_sdk": 0,
@@ -1541,6 +1541,7 @@
             "permissions": [
               "android.permission.ACCESS_NETWORK_STATE",
               "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
               "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
               "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
               "android.permission.INTERNET",

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T08:55:08Z",
-  "sequence": 11,
-  "expires_at": "2026-11-06T08:55:08Z",
+  "generated_at": "2026-11-04T08:57:21Z",
+  "sequence": 12,
+  "expires_at": "2026-11-06T08:57:21Z",
   "apps": [
     {
       "id": 2,
@@ -335,7 +335,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-21T13:24:45Z",
-      "updated_at": "2026-10-24T07:46:27Z",
+      "updated_at": "2026-11-04T08:57:21Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -343,7 +343,7 @@
       "verification": {
         "developer_verified": true,
         "package_registered": false,
-        "signing_key_registered": false,
+        "signing_key_registered": true,
         "checked_at": null
       },
       "base_stats": {
@@ -430,21 +430,21 @@
       "anonymous_reviews": [],
       "sponsored_slots": [],
       "collections": [],
-      "suggested_version_code": "30",
+      "suggested_version_code": 30,
       "versions": [
         {
           "release_id": 94,
           "version_name": "1.8.3",
           "version_code": "30",
-          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/94",
-          "sha256": "14106f69d67480d0573e14da184b92c76f65fa4a10202cb7984bc6a118e269a4",
-          "size_bytes": 171545418,
-          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 1.8.3 (build 30), commit 310d8ff.",
-          "released_at": "2026-10-24T11:41:01Z",
+          "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a4-r94/bitchord-1.8.3.apk",
+          "sha256": "f4983347a730c63ebbcda2ce5b5f3c71367b518822c7994ac805a346d5bc70c1",
+          "size_bytes": 172839074,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "",
+          "released_at": "2026-11-04T08:57:21Z",
           "status": "available",
           "compatibility": {
-            "min_sdk": 26,
+            "min_sdk": 0,
             "target_sdk": 36,
             "abis": [
               "arm64-v8a",
@@ -465,8 +465,8 @@
               "android.permission.READ_EXTERNAL_STORAGE",
               "android.permission.READ_MEDIA_AUDIO",
               "android.permission.READ_PHONE_STATE",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
               "android.permission.REQUEST_INSTALL_PACKAGES",
-              "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
               "android.permission.VIBRATE",
               "android.permission.WAKE_LOCK",
               "android.permission.WRITE_EXTERNAL_STORAGE",

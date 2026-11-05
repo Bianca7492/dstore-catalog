@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-05T08:38:08Z",
-  "sequence": 18,
-  "expires_at": "2026-11-07T08:38:08Z",
+  "generated_at": "2026-11-05T08:41:24Z",
+  "sequence": 19,
+  "expires_at": "2026-11-07T08:41:24Z",
   "apps": [
     {
       "id": 2,
@@ -1308,7 +1308,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-22T04:06:22Z",
-      "updated_at": "2026-11-05T08:38:08Z",
+      "updated_at": "2026-11-05T08:41:24Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -1541,6 +1541,47 @@
               "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
               "android.permission.INTERNET",
               "android.permission.MODIFY_AUDIO_SETTINGS",
+              "android.permission.POST_NOTIFICATIONS",
+              "android.permission.READ_EXTERNAL_STORAGE",
+              "android.permission.RECEIVE_BOOT_COMPLETED",
+              "android.permission.WAKE_LOCK",
+              "android.permission.WRITE_EXTERNAL_STORAGE",
+              "com.netflixpro.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+            ]
+          },
+          "rollout": {
+            "percentage": 100,
+            "status": "active"
+          },
+          "delta_patches": []
+        },
+        {
+          "release_id": 96,
+          "version_name": "3.0.0",
+          "version_code": "30000",
+          "download_url": "https://github.com/Bianca7492/zealot-storage/releases/download/a10-r96/netflix-pro-3.0.0.apk",
+          "sha256": "4deb8be66af75ced099182ba5a1f703b2941c5f6db16ff40581234f73b4d2d05",
+          "size_bytes": 240958018,
+          "signing_fingerprint": "2412373ae44a839f58bed85796707f120b96420bee9365143ce47767b64ea1e5",
+          "changelog": "Re-publish release 96 with the Zealot SDK injected and organisation signing",
+          "released_at": "2026-11-05T08:41:24Z",
+          "status": "available",
+          "compatibility": {
+            "min_sdk": 0,
+            "target_sdk": 37,
+            "abis": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "screen_densities": [],
+            "required_features": [],
+            "permissions": [
+              "android.permission.ACCESS_NETWORK_STATE",
+              "android.permission.FOREGROUND_SERVICE",
+              "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+              "android.permission.INTERNET",
               "android.permission.POST_NOTIFICATIONS",
               "android.permission.READ_EXTERNAL_STORAGE",
               "android.permission.RECEIVE_BOOT_COMPLETED",

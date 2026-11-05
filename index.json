@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-04T09:57:43Z",
-  "sequence": 17,
-  "expires_at": "2026-11-06T09:57:43Z",
+  "generated_at": "2026-11-05T08:38:08Z",
+  "sequence": 18,
+  "expires_at": "2026-11-07T08:38:08Z",
   "apps": [
     {
       "id": 2,
@@ -1308,7 +1308,7 @@
       },
       "available_regions": null,
       "created_at": "2026-10-22T04:06:22Z",
-      "updated_at": "2026-11-04T09:03:14Z",
+      "updated_at": "2026-11-05T08:38:08Z",
       "editorial": {
         "featured": false,
         "editors_pick": false
@@ -1547,71 +1547,6 @@
               "android.permission.WAKE_LOCK",
               "android.permission.WRITE_EXTERNAL_STORAGE",
               "com.netflixpro.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-            ]
-          },
-          "rollout": {
-            "percentage": 100,
-            "status": "active"
-          },
-          "delta_patches": []
-        },
-        {
-          "release_id": 96,
-          "version_name": "1.2.5",
-          "version_code": "14",
-          "download_url": "https://zealot-web-77t0.onrender.com/download/releases/96",
-          "sha256": "4e36a0047f3374dffd1d25216416cca613d4ad72540a3e15f0ff8285ab8462d3",
-          "size_bytes": 70488533,
-          "signing_fingerprint": "32f5e77c79f208be49d25108867a8860a342b28b",
-          "changelog": "- Version 1.2.5 (build 14), commit 263da85.",
-          "released_at": "2026-10-24T12:20:22Z",
-          "status": "available",
-          "compatibility": {
-            "min_sdk": 24,
-            "target_sdk": 36,
-            "abis": [
-              "arm64-v8a",
-              "x86_64"
-            ],
-            "screen_densities": [],
-            "required_features": [],
-            "permissions": [
-              "android.permission.ACCESS_NETWORK_STATE",
-              "android.permission.ACCESS_WIFI_STATE",
-              "android.permission.FOREGROUND_SERVICE",
-              "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
-              "android.permission.INTERNET",
-              "android.permission.MODIFY_AUDIO_SETTINGS",
-              "android.permission.POST_NOTIFICATIONS",
-              "android.permission.READ_APP_BADGE",
-              "android.permission.READ_EXTERNAL_STORAGE",
-              "android.permission.RECEIVE_BOOT_COMPLETED",
-              "android.permission.SET_ORIENTATION",
-              "android.permission.SYSTEM_ALERT_WINDOW",
-              "android.permission.USE_BIOMETRIC",
-              "android.permission.USE_FINGERPRINT",
-              "android.permission.VIBRATE",
-              "android.permission.WAKE_LOCK",
-              "android.permission.WRITE_EXTERNAL_STORAGE",
-              "android.permission.WRITE_SETTINGS",
-              "com.anddoes.launcher.permission.UPDATE_COUNT",
-              "com.google.android.c2dm.permission.RECEIVE",
-              "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-              "com.htc.launcher.permission.READ_SETTINGS",
-              "com.htc.launcher.permission.UPDATE_SHORTCUT",
-              "com.huawei.android.launcher.permission.CHANGE_BADGE",
-              "com.huawei.android.launcher.permission.READ_SETTINGS",
-              "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-              "com.majeur.launcher.permission.UPDATE_BADGE",
-              "com.netflixpro.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-              "com.oppo.launcher.permission.READ_SETTINGS",
-              "com.oppo.launcher.permission.WRITE_SETTINGS",
-              "com.sec.android.provider.badge.permission.READ",
-              "com.sec.android.provider.badge.permission.WRITE",
-              "com.sonyericsson.home.permission.BROADCAST_BADGE",
-              "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-              "me.everything.badger.permission.BADGE_COUNT_READ",
-              "me.everything.badger.permission.BADGE_COUNT_WRITE"
             ]
           },
           "rollout": {
